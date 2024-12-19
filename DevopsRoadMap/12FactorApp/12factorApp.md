@@ -10,3 +10,6 @@
 10. Dev/prod parity
 11. Logs
 12. Admin Processes
+
+
+![image](https://github.com/user-attachments/assets/d4461627-d043-4ae0-aec6-69955bb9463e)
