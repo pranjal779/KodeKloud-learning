@@ -60,4 +60,40 @@ thor@host01 ~$ tree
 
 8 directories, 5 files
 thor@host01 ~$
+
+thor@host01 ~$ ls
+asia  contents_file.txt  empty_dir  empty_file.txt  test_dir
+thor@host01 ~$ cd asia
+thor@host01 ~/asia$ ls
+bangalore.txt  india
+thor@host01 ~/asia$ cp bangalore.txt /home/thor/asia/india/bangalore
+thor@host01 ~/asia$ cd india/
+thor@host01 ~/asia/india$ cd bangalore/
+thor@host01 ~/asia/india/bangalore$ ls -la
+total 12
+drwxr-xr-x 2 thor thor 4096 Dec 21 11:00 .
+drwxr-xr-x 3 thor thor 4096 Dec 21 10:58 ..
+-rw-r--r-- 1 thor thor   28 Dec 21 11:00 bangalore.txt
+thor@host01 ~/asia/india/bangalore$ cd ~
+thor@host01 ~$ pwd
+/home/thor
+thor@host01 ~$ cd /home/thor/asia/india/bangalore /home/thor/
+-bash: cd: too many arguments
+thor@host01 ~$ cp /home/thor/asia/india/bangalore /home/thor/
+cp: -r not specified; omitting directory '/home/thor/asia/india/bangalore'
+thor@host01 ~$ cd /home/thor/asia/india/bangalore/
+thor@host01 ~/asia/india/bangalore$ cp help
+cp: missing destination file operand after 'help'
+Try 'cp --help' for more information.
+thor@host01 ~/asia/india/bangalore$ help cp
+-bash: help: no help topics match `cp'.  Try `help help' or `man -k cp' or `info cp'.
+thor@host01 ~/asia/india/bangalore$ info cp
+
+thor@host01 ~/asia/india/bangalore$ cp -R /home/thor/asia/india/bangalore /home/thor/
+thor@host01 ~/asia/india/bangalore$ cd ..
+thor@host01 ~/asia/india$ cd ~
+thor@host01 ~$ ls
+asia  bangalore  contents_file.txt  empty_dir  empty_file.txt  test_dir
+thor@host01 ~$ 
+
 ```
