@@ -96,4 +96,12 @@ thor@host01 ~$ ls
 asia  bangalore  contents_file.txt  empty_dir  empty_file.txt  test_dir
 thor@host01 ~$ 
 
+
+thor@host01 ~$ cd asia/
+thor@host01 ~/asia$ rm -rf bangalore.txt
+thor@host01 ~/asia$ rm -rf /home/thor/asia/india/bangalore
+thor@host01 ~/asia$ ls
+india
+thor@host01 ~/asia$ ls india/
+thor@host01 ~/asia$ 
 ```
