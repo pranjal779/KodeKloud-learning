@@ -1,4 +1,4 @@
-Networking Basics
+## Networking Basics
 
 5 Lessons
 
@@ -9,3 +9,9 @@ Networking Basics 11:03
 Labs - Switching and Routing
 DNS 14:11
 Labs - DNS
+
+
+# Commands
+
+ip link
+ping <ipaddress>
