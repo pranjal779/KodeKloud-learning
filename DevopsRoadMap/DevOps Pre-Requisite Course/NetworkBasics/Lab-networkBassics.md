@@ -70,3 +70,31 @@ Connection to app01 closed.
 thor@jumphost ~$
 ```
 
+It looks like you are experiencing two issues:
+
+Password Denied for jump_host: Ensure that you are using the correct password for jump_host. If it's incorrect, you won't be able to establish a connection.
+No Route to Host for app03: This indicates a network issue. Ensure that app03 is reachable from app01. You can check network connectivity using ping app03 from app01.
+Here are the steps to troubleshoot and resolve these issues:
+
+Check Password for jump_host: Verify that you have the correct password and retry.
+
+Check Network Connectivity:
+
+sh
+ssh app01
+ping app03
+If ping fails, there might be a network configuration issue preventing access to app03.
+
+Verify SSH Service on app03:
+
+sudo systemctl status ssh
+Ensure the SSH service is running on app03.
+
+Firewall Settings:
+
+sudo ufw status
+Ensure port 22 is open on app03.
+
+Check /etc/hosts: Ensure the hostnames for app03 and app04 are correctly defined.
+
+If you encounter specific error messages during these steps, please share them for further assistance.
