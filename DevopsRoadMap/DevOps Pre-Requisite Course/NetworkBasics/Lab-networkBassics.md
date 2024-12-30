@@ -46,6 +46,7 @@ thor@jumphost ~$
 
 ![image](https://github.com/user-attachments/assets/c7cc143f-8276-4c23-a4e4-cd28b8608f39)
 
+![image](https://github.com/user-attachments/assets/aa8256e3-dbc5-470d-8006-5764fe403ca1)
 
 
 
