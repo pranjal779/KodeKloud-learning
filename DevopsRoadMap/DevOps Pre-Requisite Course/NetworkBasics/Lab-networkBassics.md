@@ -98,3 +98,30 @@ Ensure port 22 is open on app03.
 Check /etc/hosts: Ensure the hostnames for app03 and app04 are correctly defined.
 
 If you encounter specific error messages during these steps, please share them for further assistance.
+
+
+thor@app01 ~$ ^C
+thor@app01 ~$ ping app03
+PING app03 (172.16.238.13) 56(84) bytes of data.
+From app01.com (172.16.238.15) icmp_seq=1 Destination Host Unreachable
+From app01.com (172.16.238.15) icmp_seq=2 Destination Host Unreachable
+^CFrom 172.16.238.15 icmp_seq=3 Destination Host Unreachable
+From 172.16.238.15 icmp_seq=4 Destination Host Unreachable
+
+--- app03 ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3078ms
+pipe 4
+thor@app01 ~$ 
+
+
+![image](https://github.com/user-attachments/assets/804296ba-5037-45f4-90dc-2c52825d5e32)
+
+![image](https://github.com/user-attachments/assets/e0d73ee0-dcf9-4227-9e33-b970ec03cc3e)
+
+![image](https://github.com/user-attachments/assets/3cd83a41-e722-4317-966a-081ea01eb7b6)
+
+![image](https://github.com/user-attachments/assets/d062b784-143c-48bf-83d6-a29781ff44dd)
+
+![image](https://github.com/user-attachments/assets/c6b9e035-6c0d-475c-9a4e-bc9d62c3a87d)
+
+![image](https://github.com/user-attachments/assets/9352c012-7966-4e76-8e38-37549c16e51a)
