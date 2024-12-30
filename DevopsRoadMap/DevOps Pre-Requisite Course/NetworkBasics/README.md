@@ -57,7 +57,12 @@ route
 
 example of default or any ip address
 
+# Deafult Gateway
+
 ![image](https://github.com/user-attachments/assets/fd44f188-99a3-497c-a020-055f58e8d599)
+
+### via any route
+![image](https://github.com/user-attachments/assets/fa511ad8-26fa-4c14-b022-8a0216344bb2)
 
 
 ![image](https://github.com/user-attachments/assets/5cea6500-d1b4-40c5-a2af-ee6189fc9e91)
