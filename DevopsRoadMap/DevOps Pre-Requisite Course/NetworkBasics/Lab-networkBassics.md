@@ -18,3 +18,34 @@
 
 # Hint:
 ![image](https://github.com/user-attachments/assets/a047e408-23d0-404c-915a-4197681a45db)
+
+```sh
+
+ssh app01
+thor@app01 ~$ sudo ip addr add 172.16.238.15/24 dev eth0
+
+![image](https://github.com/user-attachments/assets/383cb5c3-af8c-4450-860c-2dc80e12b377)
+
+![image](https://github.com/user-attachments/assets/477f6f02-ca6e-4225-9a3a-1508ff5ae750)
+
+```sh
+thor@app01 ~$ exit ssh app01
+logout
+-bash: exit: ssh: numeric argument required
+Connection to app01 closed.
+thor@jumphost ~$ 
+```
+
+![image](https://github.com/user-attachments/assets/9617ca8f-4136-4f96-92d6-35eb24647ab2)
+
+![image](https://github.com/user-attachments/assets/68037be0-1f20-49b5-8129-b66d457e40d5)
+
+![image](https://github.com/user-attachments/assets/76aaf473-5db7-4d51-8d48-d14cce0ed983)
+
+![image](https://github.com/user-attachments/assets/577e11f1-068f-4a9f-994c-82269c0ddb12)
+
+![image](https://github.com/user-attachments/assets/c7cc143f-8276-4c23-a4e4-cd28b8608f39)
+
+
+
+
