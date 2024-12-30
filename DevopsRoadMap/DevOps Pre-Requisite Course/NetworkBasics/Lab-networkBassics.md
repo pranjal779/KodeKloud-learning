@@ -49,4 +49,24 @@ thor@jumphost ~$
 ![image](https://github.com/user-attachments/assets/aa8256e3-dbc5-470d-8006-5764fe403ca1)
 
 
+```sh
+thor@jumphost ~$ ssh jump_host
+The authenticity of host 'jump_host (172.16.238.10)' can't be established.
+ED25519 key fingerprint is SHA256:nYp8rIeI8BHIz3+zJMIYve3XqLhrdr9CGV7glJuucV4.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'jump_host' (ED25519) to the list of known hosts.
+thor@jump_host's password: 
+Permission denied, please try again.
+thor@jump_host's password: 
+
+thor@jumphost ~$ ssh app01
+Last login: Mon Dec 30 06:22:30 2024 from 172.16.238.10
+thor@app01 ~$ ssh app03
+ssh: connect to host app03 port 22: No route to host
+thor@app01 ~$ exit
+logout
+Connection to app01 closed.
+thor@jumphost ~$
+```
 
