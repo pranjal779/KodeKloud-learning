@@ -45,3 +45,19 @@ curl http://www.google.co
 ![image](https://github.com/user-attachments/assets/a73f22d2-71fe-427b-9b81-96e6d532fa75)
 
 ![image](https://github.com/user-attachments/assets/099fddc3-0ffd-44f9-9fba-f3203c01a6fb)
+
+![image](https://github.com/user-attachments/assets/06360cef-68e5-47e3-9387-7f711c6cc6ac)
+
+![image](https://github.com/user-attachments/assets/dd391583-7aa3-4a02-927f-b9abfda056df)
+
+![image](https://github.com/user-attachments/assets/32f8062d-c7e6-4933-8f00-4698e7f934f9)
+
+![image](https://github.com/user-attachments/assets/20a1c866-ba89-4a48-b1ee-a8b9625a9fc5)
+
+
+# Domain Names
+
+![image](https://github.com/user-attachments/assets/08cabbe9-faab-401f-8e3d-a759fa470dab)
+
+![image](https://github.com/user-attachments/assets/c5e197a6-ec40-4016-bdad-0fab61ab0de4)
+
