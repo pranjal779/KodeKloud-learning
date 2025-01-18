@@ -1,3 +1,4 @@
+```sh
 thor@host01 ~$ ip addr show
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
@@ -25,8 +26,13 @@ Using JRE_HOME:        /
 Using CLASSPATH:       /opt/apache-tomcat-8.5.53/bin/bootstrap.jar:/opt/apache-tomcat-8.5.53/bin/tomcat-juli.jar
 Tomcat started.
 thor@host01 ~$ 
+```
 
 ![image](https://github.com/user-attachments/assets/3e779e2a-0063-4b60-b322-55f98670af35)
 
 ![image](https://github.com/user-attachments/assets/e18e9031-89d4-4111-bb43-773ce4444d48)
+
+![image](https://github.com/user-attachments/assets/7d8a0636-989b-41f2-983a-a663815e870c)
+
+![image](https://github.com/user-attachments/assets/e1b3141c-68ec-42a1-902b-d51d00432b80)
 
