@@ -16,3 +16,52 @@
 
 ## Yaml notes
 ![image](https://github.com/user-attachments/assets/31f8b5b0-12b8-4ec9-949b-7326f5dc1ff1)
+
+
+# Labs
+
+```yaml
+# [bob@student-node ~]$ cat /home/bob/playbooks/practice.yaml 
+employees:
+  - employee:
+      name: john
+      gender: male
+      age: 24
+# [bob@student-node ~]$
+```
+
+
+```yaml
+# [bob@student-node ~]$ cat /home/bob/playbooks/practice.yaml 
+employees:
+  - name: john
+    gender: male
+    age: 24
+
+  - name: sarah
+    gender: female
+    age: 28
+
+# [bob@student-node ~]$
+```
+
+
+```yaml
+#[bob@student-node ~]$ cat /home/bob/playbooks/practice.yaml 
+employee:
+  name: john
+  gender: male
+  age: 24
+  address:
+    city: 'edison'
+    state: 'new jersey'
+    country: 'united states'
+  payslips:
+    - month: june
+      amount: 1400
+    - month: july
+      amount: 2400
+    - month: august
+      amount: 3400
+#[bob@student-node ~]$
+```
