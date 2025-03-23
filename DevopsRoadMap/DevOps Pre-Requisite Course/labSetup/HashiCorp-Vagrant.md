@@ -1,4 +1,8 @@
 # HashiCorp Vagrant
+
+![image](https://github.com/user-attachments/assets/32444441-df44-4057-abe1-582cb3af6e06)
+
+
 HashiCorp Vagrant is a tool for building and managing virtual machine environments, simplifying development setup by automating configurations and creating reproducible, portable environments, and supporting various virtualization providers and configuration management tools. [1, 2, 3, 4]  
 Here's a more detailed explanation: [1, 2]  
 
