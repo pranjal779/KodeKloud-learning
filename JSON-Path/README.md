@@ -13,4 +13,3 @@ Module Content:
 - JSON PATH Use case - Kubernetes 12:03
 - Labs – JSON PATH – Kubernetes
 - Course Resource
-- How to Reach Out to KodeKloud and Engage with the Community
