@@ -1,4 +1,4 @@
-![Screenshot 2025-04-23 113905](https://github.com/user-attachments/assets/ffbd453d-7938-460c-9fb5-c08e0f122cdc)
+[create security group.txt](https://github.com/user-attachments/files/19913299/create.security.group.txt)![Screenshot 2025-04-23 113905](https://github.com/user-attachments/assets/ffbd453d-7938-460c-9fb5-c08e0f122cdc)
 ![Screenshot 2025-04-23 114133](https://github.com/user-attachments/assets/3ee36c01-c6b3-44ff-a15c-2557bf88b4d3)
 ![Screenshot 2025-04-23 114232](https://github.com/user-attachments/assets/de453a49-5474-4cf5-b0d3-4ed86fb28a51)
 ![Screenshot 2025-04-23 114506](https://github.com/user-attachments/assets/f8432e99-ef46-4677-a26f-c0aa058f4bed)
@@ -46,3 +46,44 @@
 ![Screenshot 2025-04-23 141427](https://github.com/user-attachments/assets/c7dfd4d6-9c36-4d86-8b36-2459c1b2b513)
 ![Screenshot 2025-04-23 142703](https://github.com/user-attachments/assets/266f5b77-f9bd-41ea-93eb-dbd29393a308)
 ![Screenshot 2025-04-23 163051](https://github.com/user-attachments/assets/313f8a09-ac7a-4673-9aca-f0d66dd115c6)
+
+Notes:
+
+[Sure! Here are the steps to create a security group and configure it using the AWS Management Console:
+
+Navigate to the VPC Dashboard:
+
+Log in to the AWS Management Console.
+Go to the VPC service.
+Create a Security Group:
+
+In the left-hand menu, click on Security Groups.
+Click on the Create security group button.
+Enter kloudswift-sg as the Security group name.
+Provide a description, like "Security group for kloudswift EC2 instance".
+Select the VPC kloudswift-vpc from the dropdown.
+Configure Inbound Rules:
+
+In the Inbound rules section, click on Add rule.
+For SSH access:
+Type: SSH
+Protocol: TCP
+Port Range: 22
+Source: My IP (or specify a custom IP range)
+Add any other rules you need, such as HTTP or HTTPS.
+Review and Create:
+
+Review your settings and click Create security group.
+Launch the EC2 Instance:
+
+Go to the EC2 service in the AWS Management Console.
+Click on Instances in the left-hand menu.
+Click on Launch Instances.
+Follow the steps to configure your instance:
+Choose the Amazon Linux AMI.
+Select the t2.micro instance type.
+Configure the instance details to use the kloudswift-vpc and public-subnet.
+Enable auto-assign public IP.
+In the Configure Security Group step, select Select an existing security group and choose kloudswift-sg.
+Review and launch the instance using the ec2-user key pair.
+By following these steps, you should be able to create the security group and launch your EC2 instance with the correct configurations. Let me know if you need more help! 😊Uploading create security group.txt…]()
