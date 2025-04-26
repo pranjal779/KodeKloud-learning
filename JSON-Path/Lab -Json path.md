@@ -24,3 +24,6 @@
 ![Screenshot 2025-04-20 121933](https://github.com/user-attachments/assets/6d2afafa-191e-4096-ba8e-bee44ca8595f)
 ![Screenshot 2025-04-20 121947](https://github.com/user-attachments/assets/8245597b-f561-4c99-a0b5-4f19f67bf857)
 ![Screenshot 2025-04-20 122030](https://github.com/user-attachments/assets/2f3454df-80af-4cac-91a1-d7ae910b2194)
+
+Wildcards:
+![Screenshot 2025-04-22 182223](https://github.com/user-attachments/assets/dba7de14-9790-4b5b-ac6c-434f0e906019)
