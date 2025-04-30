@@ -104,3 +104,16 @@ snap-0acca7bba98a8c306
 ![image](https://github.com/user-attachments/assets/d343cdf4-48f8-4a79-adbe-20d75a19d929)
 
 ![image](https://github.com/user-attachments/assets/01bb5b3f-07e0-47f9-abfe-c86478ae26ce)
+
+**Manually attaching the vcolume as confusing steps**
+![image](https://github.com/user-attachments/assets/c8258280-ce35-487b-a2ba-f3b5e1d7c2e0)
+
+![image](https://github.com/user-attachments/assets/928e8c6e-501a-4e2d-9bca-d66a0055d1fb)
+![image](https://github.com/user-attachments/assets/9078462a-3d21-478d-8bd5-d01d8c14aa1d)
+![image](https://github.com/user-attachments/assets/076fe0c2-5853-4b3a-b3e8-374bcb70bb70)
+
+**step 15 - step 16 were a little confusing as i am doing them for first time but was so much fun**
+![image](https://github.com/user-attachments/assets/ddb67539-cbaf-4310-b462-973c40e0bca1)
+
+![image](https://github.com/user-attachments/assets/ea5f5e8e-1111-4811-9b11-34cda0753e18)
+
