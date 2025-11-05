@@ -28,7 +28,7 @@ DevOps Roadmap Topics
 - version control integration.​
 
 ## Networking Basics
--TCP/IP, 
+- TCP/IP,
 - DNS,
 - HTTP/HTTPS,
 - firewall management.​
