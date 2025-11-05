@@ -95,3 +95,20 @@ DevOps Roadmap Topics
 - Real-world architectures, 
 - CI/CD pipeline setup for sample apps,
 - hands-on labs integrated with each section.
+
+
+--------------
+
+| Step                   | Main Topics                                      | Labs/Projects                 |
+| ---------------------- | ------------------------------------------------ | ----------------------------- |
+| Start with Linux       | Linux commands, permissions, networking          | In-browser terminal labs      |
+| Master Git             | Branching, workflows, GitHub                     | Repo/project portfolio        |
+| Scripting & Automation | Bash, Python/JavaScript, YAML/JSON manipulation  | Automation mini-projects      |
+| Networking             | TCP/IP, firewalls, HTTP(S), DNS                  | Network troubleshooting labs  |
+| Docker & Containers    | Images, containers, orchestration basics         | Docker mini-projects          |
+| CI/CD                  | Jenkins, GitHub Actions, automated tests         | Build pipeline for Node.js    |
+| IaC                    | Terraform, Ansible, configuration management     | Infra provisioning labs       |
+| Cloud Platforms        | AWS, Azure, GCP, IAM, Kubernetes services        | Cloud deployment exercises    |
+| Kubernetes             | Cluster, pods, monitoring, security              | Hands-on cluster management   |
+| Monitoring/SRE         | Prometheus, Grafana, ELK, SRE, incident response | Monitoring/observability labs |
+| Security/DevSecOps     | Kubernetes security, policy, compliance          | Security framework labs       |
