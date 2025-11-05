@@ -1,5 +1,11 @@
 ## commands
 
+- To check the exact version of the kernel running on a Linux system
+```sh
+uname -r
+```
+
+
 ```sh
 
 dmesg
