@@ -14,7 +14,7 @@ rpm -Uvh telnet.rpm
 rpm -q telnet.rpm
 
 # Verifying
-rmp -Vf <path to file>
+rmp -Vf #<path to file>
 
 
 yum install httpd
