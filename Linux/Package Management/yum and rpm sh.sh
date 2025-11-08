@@ -1,3 +1,22 @@
+# RPM
+# Working with RPM
+
+# Installation
+rmp -ivh telnet.rpm
+
+# Uninstalling
+rpm -e telnet.rpm
+
+# Upgrade
+rpm -Uvh telnet.rpm
+
+# Query
+rpm -q telnet.rpm
+
+# Verifying
+rmp -Vf <path to file>
+
+
 yum install httpd
 
 # or
