@@ -11,7 +11,7 @@
 <img width="1103" height="1236" alt="image" src="https://github.com/user-attachments/assets/fa0a7107-f0b6-41f8-a136-8118ee84d445" />
 <img width="727" height="591" alt="image" src="https://github.com/user-attachments/assets/1dc4f777-d29a-4368-9f9d-db26eb06b506" />
 
-```
+
 Access the devapp01 server:
 
 Execute the following command to SSH into the server:
@@ -48,7 +48,7 @@ Install iptables:
  apt install iptables
 Optionally verify the installation:
  iptables --version
-```
+
 
 <img width="1107" height="861" alt="image" src="https://github.com/user-attachments/assets/37083252-b711-46e1-a266-b19d70039cc5" />
 
@@ -64,7 +64,7 @@ Optionally verify the installation:
 
 <img width="2427" height="971" alt="image" src="https://github.com/user-attachments/assets/c9f81f1b-3ca7-4194-a582-b9408479f3a0" />
 
-```
+
 SSH into devapp01 as the user bob:
 
 ssh bob@devapp01
@@ -82,7 +82,7 @@ iptables -A INPUT -p tcp -s 172.16.238.187 --dport 80 -j ACCEPT
 (Optional) Verify the rules were added:
 
 iptables -L -v
-```
+
 
 <img width="2481" height="1143" alt="image" src="https://github.com/user-attachments/assets/59c57751-3ae1-45fc-8628-be7a566b07a3" />
 <img width="1071" height="877" alt="image" src="https://github.com/user-attachments/assets/6210d1e7-9479-45c4-82aa-eede9efa7eef" />
@@ -90,7 +90,6 @@ iptables -L -v
 <img width="1037" height="752" alt="image" src="https://github.com/user-attachments/assets/b958f54f-7303-4612-8c58-14148a26762f" />
 <img width="2207" height="1035" alt="image" src="https://github.com/user-attachments/assets/08712d2b-1658-425b-b988-bfc0af30593b" />
 
-```
 SSH into devapp01 as the user bob:
 
 ssh bob@devapp01
@@ -105,4 +104,59 @@ iptables -A INPUT -j DROP
 (Optional) Verify the rules to ensure the DROP rule is at the bottom, after your ACCEPT rules:
 
 iptables -L -v --line-numbers
-````
+
+
+<img width="1155" height="956" alt="image" src="https://github.com/user-attachments/assets/fc689056-c4b5-4c3d-bf5a-6c1836eec7ec" />
+<img width="1128" height="1211" alt="image" src="https://github.com/user-attachments/assets/3d897404-36b8-4bbc-a9ba-9231ff246da3" />
+<img width="1092" height="657" alt="image" src="https://github.com/user-attachments/assets/1b71e938-876d-496a-b5b7-0ec9d6f27398" />
+<img width="1082" height="1233" alt="image" src="https://github.com/user-attachments/assets/3d8844bd-d284-4c1e-a04a-e679cd856acb" />
+<img width="2500" height="1241" alt="image" src="https://github.com/user-attachments/assets/8af22a3b-854e-4e25-b0d8-90988c9deb25" />
+<img width="1136" height="1302" alt="image" src="https://github.com/user-attachments/assets/813c2180-e845-42ef-a5f9-5a65bdfad2b3" />
+
+Solution
+SSH into devapp01 as the user bob:
+
+ssh bob@devapp01
+# Enter password: caleston123
+Switch to the root shell to avoid entering the password repeatedly:
+
+sudo -s
+# Enter password: caleston123
+Permit outgoing access to port 5432 on devdb01:
+
+iptables -A OUTPUT -p tcp -d 172.16.238.11 --dport 5432 -j ACCEPT
+Permit outgoing HTTP access to caleston-repo-01:
+
+iptables -A OUTPUT -p tcp -d 172.16.238.15 --dport 80 -j ACCEPT
+Block all other outgoing HTTP traffic:
+
+iptables -A OUTPUT -p tcp --dport 80 -j DROP
+Block all outgoing HTTPS traffic:
+
+iptables -A OUTPUT -p tcp --dport 443 -j DROP
+(Optional) Verify the rules and their order:
+
+iptables -L -v --line-numbers
+
+<img width="2457" height="1333" alt="image" src="https://github.com/user-attachments/assets/87cb1b6d-f329-49af-a244-61fb5ab98acc" />
+
+<img width="1143" height="867" alt="image" src="https://github.com/user-attachments/assets/16c6b3ca-f3ff-472d-bcc3-8364f9b038a1" />
+<img width="1038" height="435" alt="image" src="https://github.com/user-attachments/assets/1e9efc13-d4b0-4de1-9058-76d1c459422e" />
+<img width="2518" height="1271" alt="image" src="https://github.com/user-attachments/assets/75e69c28-cc62-42a3-9e6f-3d26d3c706c6" />
+
+SSH into devapp01 as the user bob:
+
+ssh bob@devapp01
+# Enter password: caleston123
+Switch to the root shell to avoid entering the password repeatedly:
+
+sudo -s
+# Enter password: caleston123
+Insert the rule at the top of the OUTPUT chain to allow HTTPS to google.com:
+
+iptables -I OUTPUT -p tcp -d google.com --dport 443 -j ACCEPT
+(Optional) Verify the rule is at the top:
+
+iptables -L OUTPUT -v --line-numbers
+
+<img width="1135" height="1012" alt="image" src="https://github.com/user-attachments/assets/d1198d2b-a435-4e0e-a9f3-41ccf8c98d7c" />
