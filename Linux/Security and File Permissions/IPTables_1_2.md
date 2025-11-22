@@ -86,3 +86,11 @@ iptables -A INPUT -p tcp -s <ip> --dport 5432 -j ACCEPT
 iptables -A INPUT -p tcp --dport 5432 -j DROP
 ```
 
+```sh
+netstat -an : grep 5432
+
+iptables -L
+
+```
+
+<img width="2005" height="1173" alt="image" src="https://github.com/user-attachments/assets/24766268-1b42-4cce-8f34-01d787458a5f" />
