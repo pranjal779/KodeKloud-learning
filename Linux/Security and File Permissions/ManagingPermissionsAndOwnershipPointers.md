@@ -112,3 +112,99 @@ These are essential permission patterns for all Linux-based DevOps labs, and mas
 [18](https://www.webhosting.uk.com/kb/how-to-use-chown-to-check-the-current-file-ownership/)
 [19](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/how-permissions-chmod-with-numbers-command-explained-777-rwx-unix)
 [20](https://manage.accuwebhosting.com/knowledgebase/4128/What-is-the-use-of-the-ls-command-and-its-attributes.html)
+
+-------------------
+
+Excellent — you’re getting hands-on, which is the best way to learn Linux for DevOps! Let’s break this down clearly 👇
+
+---
+
+### 🧱 1️⃣ `ls -ld /home/bob/random_dir`
+
+This command **lists details about a directory itself**, not its contents.
+
+* `-l` → long format (shows permissions, owner, group, etc.)
+* `-d` → directory info only, not files inside
+
+Example output:
+
+```
+drwxr-xr-- 2 bob devs 4096 Nov 21 10:00 /home/bob/random_dir
+```
+
+This shows:
+
+* `drwxr-xr--` → permissions
+* `bob` → owner
+* `devs` → group
+
+✅ Use `ls -l` for files **inside** a directory, `ls -ld` for the **directory itself**.
+
+---
+
+### 🔐 2️⃣ Understanding `chmod` syntax
+
+The general form:
+
+```
+chmod [who][operator][permissions] file_or_dir
+```
+
+| Symbol | Meaning      |
+| ------ | ------------ |
+| **u**  | user (owner) |
+| **g**  | group        |
+| **o**  | others       |
+| **a**  | all (u+g+o)  |
+
+| Operator | Meaning              |
+| -------- | -------------------- |
+| **+**    | add permission       |
+| **-**    | remove permission    |
+| **=**    | set exact permission |
+
+| Permission | Meaning |
+| ---------- | ------- |
+| **r**      | read    |
+| **w**      | write   |
+| **x**      | execute |
+
+---
+
+### 💡 3️⃣ Your example
+
+You wrote:
+
+```
+chmod u+rwx,g+r-x,o+r-x /home/bob/sports/soccer
+```
+
+❌ The problem: in `g+r-x` and `o+r-x`, you mixed `+` and `-` in one group. Linux treats that as invalid syntax.
+
+✅ Correct way:
+
+```
+chmod u+rwx,g+rx,g-w,o+rx,o-w /home/bob/sports/soccer
+```
+
+Or simply:
+
+```
+chmod u=rwx,g=rx,o=rx /home/bob/sports/soccer
+```
+
+➡️ This explicitly **sets** permissions instead of combining add/remove.
+
+---
+
+### ⚙️ 4️⃣ Quick examples
+
+| Command                 | Meaning                                |
+| ----------------------- | -------------------------------------- |
+| `chmod u+x script.sh`   | Add execute for owner                  |
+| `chmod go-r secret.txt` | Remove read for group & others         |
+| `chmod a=r file.txt`    | Everyone gets read-only                |
+| `chmod 755 file`        | Numeric shortcut for `u=rwx,g=rx,o=rx` |
+
+---
+
