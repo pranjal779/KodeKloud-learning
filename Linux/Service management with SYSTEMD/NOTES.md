@@ -40,3 +40,64 @@
 - <img width="1991" height="1187" alt="image" src="https://github.com/user-attachments/assets/7b797f13-d063-48a7-a8b5-c24a2d387f14" />
 
 <img width="1991" height="1187" alt="image" src="https://github.com/user-attachments/assets/eecfc3c9-c313-497a-b2eb-a867ce11c30a" />
+
+
+# SYSTEMD TOOLS
+
+## SYSTEMCTL
+## JOURNALCTL
+
+<img width="1987" height="1213" alt="image" src="https://github.com/user-attachments/assets/be7e99be-59cf-4786-a8d7-5e3384e57954" />
+
+
+## Service Management with SYSTEMD
+
+<img width="2047" height="1152" alt="image" src="https://github.com/user-attachments/assets/6d4054ee-b96f-4295-bb71-c695a2cd5c95" />
+
+
+```sh
+systemctl start docker
+systemctl stop docker
+systemctl restart docker
+systemctl reload docker
+systemctl enable docker
+systemctl disable docker
+systemctl status docker
+```
+
+|State | Meaning|
+|:---|:---|
+|Active|Service Running|
+|Inactive|Service Stopped|
+|Failed|Crashed/Error/Timeout e.t.c|
+
+## SERVICE MANAGEMENT WITH SYSTEMD
+
+<img width="1742" height="813" alt="image" src="https://github.com/user-attachments/assets/56ac3f89-0ac2-4e4c-9f3e-372d38998037" />
+
+
+```sh
+systemctl daemon-reload
+systemctl edit project-mercury.service --full
+```
+
+## SYStemctl To Manage State
+<img width="1997" height="1016" alt="image" src="https://github.com/user-attachments/assets/776af955-7027-49cc-a035-b612cd3d7818" />
+
+```sh
+systemctl get-default
+systemctl set-default multi-user.target
+systemctl list-units --all
+systemctl list-units
+```
+
+## JOURNALCTL
+<img width="2022" height="922" alt="image" src="https://github.com/user-attachments/assets/6d703cdf-349c-4dd4-bf8f-8d9d478807ce" />
+
+
+```sh
+journalctl
+journalctl -b
+journalctl -u UNIT
+journalctl -u docker.service
+```
