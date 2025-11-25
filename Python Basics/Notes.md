@@ -39,4 +39,14 @@ This is because Python compares strings lexicographically (based on the Unicode 
 <img width="1682" height="1128" alt="image" src="https://github.com/user-attachments/assets/9e77175d-198d-409f-969a-3d7526d09e7b" />
 
 
+<img width="1680" height="857" alt="image" src="https://github.com/user-attachments/assets/097855a0-949c-459a-aa0b-499b5fed4eb0" />
+<img width="888" height="663" alt="image" src="https://github.com/user-attachments/assets/41c973c9-3335-496c-900d-d350b2515a66" />
+<img width="1846" height="1007" alt="image" src="https://github.com/user-attachments/assets/b01e1539-69f0-494e-898d-b1c00e65d66b" />
+<img width="1850" height="967" alt="image" src="https://github.com/user-attachments/assets/0889e5e5-c7ef-47ea-9546-7303a660fd15" />
+<img width="2397" height="1162" alt="image" src="https://github.com/user-attachments/assets/2494bb44-55e5-4a1c-9950-5b518d95022e" />
+<img width="1898" height="766" alt="image" src="https://github.com/user-attachments/assets/489c36f9-b6cc-485a-89ea-4839b5b29cdf" />
+<img width="1933" height="1101" alt="image" src="https://github.com/user-attachments/assets/a0f6af0b-8f29-46af-83ea-8e9107c308be" />
+
+
+
 
