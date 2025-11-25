@@ -12,4 +12,31 @@
 <img width="1612" height="961" alt="image" src="https://github.com/user-attachments/assets/d85af40e-a244-42d3-99fc-300d7d62f036" />
 <img width="1692" height="972" alt="image" src="https://github.com/user-attachments/assets/1c749e65-a580-4cf0-9098-2645ab35943a" />
 <img width="1766" height="922" alt="image" src="https://github.com/user-attachments/assets/0551b5d9-3c5c-452e-bcbc-ebe5cf471d47" />
+<img width="1683" height="786" alt="image" src="https://github.com/user-attachments/assets/4a46fb07-bcba-4129-8290-61860bce2d6a" />
+```
+To execute the comparison 'python' &gt; 'Python' in Python, you would simply type it into a Python interpreter or include it within a Python script. 
+result = 'python' > 'Python'
+print(result)
+
+The answer will be True. 
+This is because Python compares strings lexicographically (based on the Unicode values of their characters). In Unicode, lowercase letters have higher values than uppercase letters. Therefore, 'p' (in 'python') has a higher Unicode value than 'P' (in 'Python'), making 'python' greater than 'Python'. 
+```
+
+<img width="2301" height="1152" alt="image" src="https://github.com/user-attachments/assets/f54811e8-0b9d-43d8-b9f0-6a8d19da1426" />
+<img width="1402" height="1075" alt="image" src="https://github.com/user-attachments/assets/08673ae7-157a-40f2-b7fa-bb01d8399c06" />
+<img width="1656" height="1072" alt="image" src="https://github.com/user-attachments/assets/8151c842-e117-4e94-8dbd-3eb172705b0b" />
+<img width="1692" height="1062" alt="image" src="https://github.com/user-attachments/assets/4f959611-1fd5-48eb-8fef-002913efa989" />
+<img width="1692" height="1131" alt="image" src="https://github.com/user-attachments/assets/26fb3d8a-c997-4641-b084-156084a390ee" />
+<img width="1227" height="1015" alt="image" src="https://github.com/user-attachments/assets/6bd3b7ce-929e-42a7-9922-d338e6f39ce9" />
+<img width="1577" height="997" alt="image" src="https://github.com/user-attachments/assets/eadb7357-8cc1-4f9a-bab3-b555e19ff55b" />
+<img width="1357" height="1131" alt="image" src="https://github.com/user-attachments/assets/b522d3c2-aa25-4e08-b751-5a1fdc137620" />
+<img width="1308" height="1060" alt="image" src="https://github.com/user-attachments/assets/5dd4f9c8-31c1-45ca-9eb2-8008469e8ca6" />
+<img width="1788" height="972" alt="image" src="https://github.com/user-attachments/assets/814746cb-ab09-426b-98eb-1979575e346b" />
+<img width="1628" height="957" alt="image" src="https://github.com/user-attachments/assets/c86827bc-a4de-4c85-a048-2ae4cdf576b4" />
+<img width="1647" height="1028" alt="image" src="https://github.com/user-attachments/assets/9aaab34d-6128-41ca-b2b2-77d98895b6e1" />
+<img width="1646" height="1025" alt="image" src="https://github.com/user-attachments/assets/c0a65981-3b38-412e-9b82-7e66c6702a4f" />
+<img width="1606" height="1142" alt="image" src="https://github.com/user-attachments/assets/0e9c8708-92d7-4d02-a03a-60c4c62ab0c2" />
+<img width="1682" height="1128" alt="image" src="https://github.com/user-attachments/assets/9e77175d-198d-409f-969a-3d7526d09e7b" />
+
+
 
