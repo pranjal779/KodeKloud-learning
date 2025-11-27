@@ -2,6 +2,15 @@
 Level: Beginner  
 "Jenkins For Beginners" is an introductory course that covers the foundational concepts and practices of Jenkins, a leading automation server.  
 
+# GitHub Repositories for the course:
+
+- https://github.com/sidd-harth/jenkins-hello-world.git
+
+- https://github.com/jenkins-kk-demo/parameterized-pipeline-job-init
+
+- https://github.com/sidd-harth/solar-system-gitea
+
+
 Course Duration: 5.4 Hours  
 
 ## Introduction and Basics
