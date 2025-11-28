@@ -162,3 +162,16 @@ After it runs successfully, go to ascii-test-job and check the build history.
 Open the latest build log and verify that advice.json is successfully copied and processed.
 ```
 <img width="1392" height="596" alt="image" src="https://github.com/user-attachments/assets/5e7016f2-bd44-4c06-b946-16d11ebe8cee" />
+
+# Demo: Installing Plugins
+# What I missed:
+
+<img width="2323" height="1221" alt="image" src="https://github.com/user-attachments/assets/a84513e2-6314-44e4-92e4-b766a59be2fe" />  
+**drag and drop the "Copy Artifacts from another project" on the top in the Build Steps to make sure it take precedence**  
+<img width="1978" height="1167" alt="image" src="https://github.com/user-attachments/assets/ab897ff9-c4c1-4cda-9bb0-741bd6ef2aa2" />
+<img width="1983" height="1150" alt="image" src="https://github.com/user-attachments/assets/38307d1f-480e-442e-98a9-947594dca3af" />
+<img width="1710" height="1148" alt="image" src="https://github.com/user-attachments/assets/65274dde-d039-45e5-b2ca-d80c8615ba86" />
+
+
+# 4th Job
+<img width="1765" height="1050" alt="image" src="https://github.com/user-attachments/assets/369f91de-a1df-4207-b1b0-19cc94b96f6b" />
