@@ -36,3 +36,11 @@
 <img width="1901" height="1181" alt="image" src="https://github.com/user-attachments/assets/d64b4e8b-20b6-486d-bf0c-d36ede3ed382" />
 <img width="1267" height="898" alt="image" src="https://github.com/user-attachments/assets/7aa5eb9a-187d-4b1c-9f36-7cb25b5a9ca0" />
 
+
+# Pipeline Script from SCM
+<img width="1862" height="1196" alt="image" src="https://github.com/user-attachments/assets/7ebee085-8058-4444-a158-c43dc9933c51" />
+<img width="1895" height="1158" alt="image" src="https://github.com/user-attachments/assets/6db76310-751f-4425-bc42-69e942544598" />
+<img width="1848" height="1157" alt="image" src="https://github.com/user-attachments/assets/6cb920da-7d16-4041-823f-12acc86d64a8" />
+<img width="1956" height="1171" alt="image" src="https://github.com/user-attachments/assets/26f91a75-33cb-4fa4-ad3b-af5457cce98c" />
+<img width="1617" height="1112" alt="image" src="https://github.com/user-attachments/assets/38fff9c5-00e8-41c2-a7a0-4ab22e86d4de" />
+<img width="1497" height="1097" alt="image" src="https://github.com/user-attachments/assets/5c7bb3de-2693-48a8-9b7e-0713b02c8445" />
