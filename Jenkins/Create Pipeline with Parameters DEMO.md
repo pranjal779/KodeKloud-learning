@@ -28,3 +28,43 @@
 <img width="1740" height="1162" alt="image" src="https://github.com/user-attachments/assets/350f3892-2dac-4759-8831-9bf8e6719747" />
 <img width="2012" height="1133" alt="image" src="https://github.com/user-attachments/assets/82543096-a924-42c4-840d-6f897a76573c" />
 <img width="2027" height="1086" alt="image" src="https://github.com/user-attachments/assets/3c1f8a1e-c9b3-4acd-8a2a-9fd63cfe1214" />
+
+
+# Explaination
+
+To create parameters in a Jenkins Declarative Pipeline, define them within the parameters block at the top level of your pipeline block, outside of any stages. 
+pipeline {
+    agent any
+    parameters {
+        string(name: 'BRANCH_NAME', defaultValue: 'main', description: 'The Git branch to build')
+        booleanParam(name: 'RUN_TESTS', defaultValue: true, description: 'Whether to run unit tests')
+        choice(name: 'ENVIRONMENT', choices: ['dev', 'staging', 'prod'], description: 'Deployment environment')
+    }
+    stages {
+        stage('Build') {
+            steps {
+                echo "Building branch: ${params.BRANCH_NAME}"
+                script {
+                    if (params.RUN_TESTS) {
+                        echo "Running tests..."
+                    }
+                }
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo "Deploying to ${params.ENVIRONMENT} environment."
+            }
+        }
+    }
+}
+
+Explanation: 
+
+• parameters { ... }: This block encloses all parameter definitions for the pipeline. 
+• string(name: '...', defaultValue: '...', description: '...'): Defines a single-line text input parameter. 
+• booleanParam(name: '...', defaultValue: ..., description: '...'): Defines a checkbox parameter (true/false). 
+• choice(name: '...', choices: [...], description: '...'): Defines a dropdown menu parameter with predefined options. 
+• params.PARAMETER_NAME: Within the pipeline steps, parameter values are accessed using the params map, followed by the parameter's name. 
+
+After defining and saving your Jenkinsfile, the job will display a "Build with Parameters" option, allowing users to input values before triggering the build. 
