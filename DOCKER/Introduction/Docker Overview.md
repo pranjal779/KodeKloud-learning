@@ -10,3 +10,5 @@
 <img width="1702" height="1087" alt="image" src="https://github.com/user-attachments/assets/5726c9a2-5fb5-4637-ae0f-57f6f7ef7a68" />
 <img width="1988" height="1232" alt="image" src="https://github.com/user-attachments/assets/6faaa3a6-51e2-4640-9062-a5a840259099" />
 <img width="1920" height="1176" alt="image" src="https://github.com/user-attachments/assets/fe1afd50-62ad-424c-a911-4a191d7ed9cb" />
+
+## Containers vs Images
