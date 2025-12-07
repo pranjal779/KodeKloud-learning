@@ -102,4 +102,12 @@ docker rm mysql
 
 https://github.com/user-attachments/assets/31350b5d-41da-48f5-9ee2-20fdb5788268
 
+```sh
+docker run -v /opt/datadir:/var/lib/mysql mysql
+```
+<img width="2246" height="1066" alt="image" src="https://github.com/user-attachments/assets/7fca1fc7-2c65-470d-a9f9-ed36a21e7030" />
+<img width="2223" height="1105" alt="image" src="https://github.com/user-attachments/assets/396658a3-831b-491f-a202-bd0c362f7597" />
+
+
+https://github.com/user-attachments/assets/d47dc4e3-a436-450e-adf1-14c6765cf95d
 
