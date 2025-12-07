@@ -111,3 +111,9 @@ docker run -v /opt/datadir:/var/lib/mysql mysql
 
 https://github.com/user-attachments/assets/d47dc4e3-a436-450e-adf1-14c6765cf95d
 
+
+# inspect Container
+<img width="1760" height="1392" alt="image" src="https://github.com/user-attachments/assets/48e09a14-642f-47bf-ae27-d0421a3e6327" />
+
+# Container Logs
+<img width="1787" height="1327" alt="image" src="https://github.com/user-attachments/assets/d353c71f-7bd8-44b2-ac9f-6699285c0d86" />
