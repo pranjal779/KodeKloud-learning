@@ -28,14 +28,55 @@
 
 
 # Demo - Creating a new Docker Image
+1. <img width="1813" height="1076" alt="image" src="https://github.com/user-attachments/assets/773e81f5-659d-4167-a709-8dbd7d3feb1f" />
+2. docker ps
+3. docker run -it ubuntu bash
+4. follow the repo instructions
+5. apt-get install -y python
+6. apt-get install python-pip
+7. pip install flask
+8. cat > /opt/app.py
+9. <img width="1285" height="272" alt="image" src="https://github.com/user-attachments/assets/58047343-924a-4d5d-a037-b73eb5e0df0b" />
+10. <img width="1782" height="956" alt="image" src="https://github.com/user-attachments/assets/4dde3846-0370-4b0d-84eb-270e2e605c3c" />
+11. How do you dockerise it
+12. write down all the steps you did manually in file
+13. <img width="1660" height="1267" alt="image" src="https://github.com/user-attachments/assets/57c1668a-7e61-4cb3-b2a2-6b436d1c5a98" />
+14. mkdir my-simpe-webapp
+15. cat > Dockerfile
+
+16. example of Docker file:
+<img width="2005" height="673" alt="image" src="https://github.com/user-attachments/assets/b1e98728-0772-4e14-a166-6b6d84bf42ee" /> 
+
+```sh 
+FROM ubuntu
+
+RUN apt-get update
+RUN apt-get install -y python python-pip
+RUN pip install flask
+
+COPY app.py /opt/app.py
+
+ENTRYPOINT FLASK_APP=/opt/app.py flask run --host=0.0.0.0
+```
 
 
+17. <img width="1182" height="197" alt="image" src="https://github.com/user-attachments/assets/31398eaf-0b18-4537-8d29-0d9632921cbc" /> 
+<img width="1262" height="1201" alt="image" src="https://github.com/user-attachments/assets/971e2152-b525-4e64-aec6-adfb559204f9" />
 
-
-
-
-
-
-
-
-
+18. docker build .
+19. docker build . -t my-simple-webapp
+20. <img width="2313" height="1087" alt="image" src="https://github.com/user-attachments/assets/180479ee-7f92-4a30-88bd-95b4f3cfd3dd" />
+21. docker images
+22. docker run my-simple-webapp
+23. <img width="1383" height="892" alt="image" src="https://github.com/user-attachments/assets/b6bd7c17-d7e6-4c7b-a9dd-70c8b134a088" />
+24. <img width="1572" height="980" alt="image" src="https://github.com/user-attachments/assets/e394ac66-8060-44ff-94dd-84f78f80e225" />
+25. How to push it to docker HUB and make is available
+26. <img width="1383" height="667" alt="image" src="https://github.com/user-attachments/assets/9a2b7287-5e5d-4223-bece-f4ca4132c869" />
+27. <img width="1252" height="321" alt="image" src="https://github.com/user-attachments/assets/6633e630-4afc-4171-9c1c-d71acbacedbb" />
+28. You need to tag it with your account name to be able to push it in Docker HUB
+29. <img width="2087" height="1142" alt="image" src="https://github.com/user-attachments/assets/b56af2cf-336c-4c32-ab37-237495442c43" />
+30. <img width="1471" height="931" alt="image" src="https://github.com/user-attachments/assets/0e90b163-df51-4de7-a062-047494544683" />
+31. <img width="1453" height="687" alt="image" src="https://github.com/user-attachments/assets/1443bba8-dac2-48ce-a6cb-ad93bfe7f22d" />
+32. <img width="1557" height="690" alt="image" src="https://github.com/user-attachments/assets/c5a26c3c-bdad-49a3-a6ec-813332126686" />
+33. <img width="1362" height="613" alt="image" src="https://github.com/user-attachments/assets/203fe260-b980-41c2-8c17-bf6609fb108e" />
+34. <img width="1685" height="501" alt="image" src="https://github.com/user-attachments/assets/4d2e20cf-559a-4296-9cde-2eaa16f428a4" />
