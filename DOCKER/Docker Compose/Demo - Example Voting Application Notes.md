@@ -26,3 +26,10 @@
 <img width="1752" height="1081" alt="image" src="https://github.com/user-attachments/assets/58373cd8-a546-49a4-b55b-3b2ac6dc28ab" />
 
 # Demo -Docker Compose
+<img width="1982" height="1157" alt="image" src="https://github.com/user-attachments/assets/71c24f34-aaf6-4bb9-8137-2f959a7879e5" />
+<img width="2017" height="1243" alt="image" src="https://github.com/user-attachments/assets/fef0395b-ca58-40cb-8d0d-16a2ff0c3e73" />
+<img width="1010" height="1007" alt="image" src="https://github.com/user-attachments/assets/8b7dd90a-fcfb-4134-bf55-3445900fc4c6" />
+<img width="2035" height="915" alt="image" src="https://github.com/user-attachments/assets/dd426db2-8283-4e52-98be-a1eec3f7e3b6" />
+<img width="2012" height="1205" alt="image" src="https://github.com/user-attachments/assets/a3289e79-88da-410f-be77-a4f619715d6e" />
+<img width="2015" height="1160" alt="image" src="https://github.com/user-attachments/assets/be3ab92b-33e5-48b3-a76a-0c4eac1d3bb9" />
+
