@@ -17,3 +17,10 @@
 
 
 # Demo - Example Voting Application with Docker Compose
+<img width="2540" height="1122" alt="image" src="https://github.com/user-attachments/assets/8b925dcc-95c3-4d7d-9b35-05c370ed2240" />
+<img width="1768" height="846" alt="image" src="https://github.com/user-attachments/assets/66aa7d39-24ff-46fb-845d-d1fa9e65f7f0" />
+<img width="1008" height="1162" alt="image" src="https://github.com/user-attachments/assets/ab1ba174-671e-492f-9369-7907189fd803" />
+<img width="867" height="1196" alt="image" src="https://github.com/user-attachments/assets/8dd4d129-650b-4a4f-a417-40a28d11f468" />
+<img width="1135" height="1260" alt="image" src="https://github.com/user-attachments/assets/9b40bf1c-37b3-4070-9903-654fa5f54861" />
+<img width="1552" height="937" alt="image" src="https://github.com/user-attachments/assets/beabe43d-be8a-4312-997d-9aedfc0627f9" />
+<img width="1752" height="1081" alt="image" src="https://github.com/user-attachments/assets/58373cd8-a546-49a4-b55b-3b2ac6dc28ab" />
