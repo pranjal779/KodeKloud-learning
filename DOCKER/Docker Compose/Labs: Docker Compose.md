@@ -1,0 +1,19 @@
+# Labs: Docker Compose
+<img width="1782" height="1012" alt="image" src="https://github.com/user-attachments/assets/e190add2-75c3-4901-b8fc-08e40e4caa19" />
+<img width="2105" height="715" alt="image" src="https://github.com/user-attachments/assets/cb00a72c-3393-44c5-b6f5-2504058db18f" />
+<img width="2168" height="1042" alt="image" src="https://github.com/user-attachments/assets/60b3da90-5102-4a9c-909d-cf5d090bce42" />
+<img width="2360" height="1095" alt="image" src="https://github.com/user-attachments/assets/e9fad99b-a1cb-4119-a6eb-1dd06b2febcc" />
+<img width="1052" height="757" alt="image" src="https://github.com/user-attachments/assets/6873795f-e864-4778-b22d-97256e011860" />
+<img width="983" height="341" alt="image" src="https://github.com/user-attachments/assets/4cd273c7-f487-459e-a8c4-4f6d182de03e" />
+<img width="2305" height="1146" alt="image" src="https://github.com/user-attachments/assets/0965142e-2de2-4e03-81f2-4642104b4247" />
+<img width="2472" height="1105" alt="image" src="https://github.com/user-attachments/assets/3f5bbd34-5599-4e52-8b90-7713f123f898" />
+<img width="1017" height="596" alt="image" src="https://github.com/user-attachments/assets/ce653ff5-b30d-44fd-8b60-56c1e9248530" />
+<img width="627" height="195" alt="image" src="https://github.com/user-attachments/assets/c2089931-66de-4428-8e4d-85b00ea9f65f" />
+<img width="871" height="327" alt="image" src="https://github.com/user-attachments/assets/07853f9d-19b7-4356-a229-835976ea1145" />
+<img width="1085" height="722" alt="image" src="https://github.com/user-attachments/assets/c441e296-fe6e-4b3d-85ed-d93d2bcf9fd5" />
+<img width="2508" height="1175" alt="image" src="https://github.com/user-attachments/assets/bf014d33-aa7b-42dc-a9c5-6156feccca08" />
+<img width="1007" height="942" alt="image" src="https://github.com/user-attachments/assets/b7441e71-464b-4477-a282-65ec5257609f" />
+<img width="831" height="560" alt="image" src="https://github.com/user-attachments/assets/a9335e6c-293f-4f8e-a247-259ffd783c45" />
+<img width="1512" height="312" alt="image" src="https://github.com/user-attachments/assets/47c21424-a1ed-45cb-bbb8-fbbccf40faea" />
+<img width="1445" height="555" alt="image" src="https://github.com/user-attachments/assets/17931735-f274-4317-a62e-58e1fc7041e1" />
+<img width="2485" height="1160" alt="image" src="https://github.com/user-attachments/assets/e4133fc9-867a-4e21-8137-ed0294f4cea0" />
