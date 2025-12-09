@@ -6,3 +6,5 @@
 - Demo -Docker Compose 05:06
 - Labs: Docker Compose
 - References
+
+We will do alot of yaml file configuration
