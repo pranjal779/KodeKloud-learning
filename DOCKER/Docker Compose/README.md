@@ -8,3 +8,12 @@
 - References
 
 We will do alot of yaml file configuration
+
+
+Please click on the links below for further reference:
+
+https://docs.docker.com/compose/
+
+https://docs.docker.com/engine/reference/commandline/compose/
+
+https://github.com/dockersamples/example-voting-app
