@@ -1,0 +1,11 @@
+# Cgroups
+- So We Learned that underlying Docker Host as well as the containers share the same system resources such as CPU and Memory.
+- How much of the resources are dedicated to the host and the containers?
+- How much does Docker manage and share the resources between the containers?
+- By default, there is no restriction as to how much of a resource a container can use.
+- And hence, a container may end up utilizing all of the resources on the underlying host.
+- But there is a way to restrict the amount of CPU or memeory a container can use.
+- Docker uses Cgroups or control groups to restrict the amount of hardware resources allocated to each container
+- THis can be Done by providing the --cpu option to the Docker run command
+- <img width="1962" height="1145" alt="image" src="https://github.com/user-attachments/assets/5621d664-d465-446b-828e-972f95f6eca5" />
+- <img width="1207" height="1051" alt="image" src="https://github.com/user-attachments/assets/6b379f38-826c-4966-95e3-935964f68df8" /> 
