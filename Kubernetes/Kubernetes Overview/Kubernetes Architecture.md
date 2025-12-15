@@ -31,6 +31,8 @@
 <img width="603" height="1093" alt="image" src="https://github.com/user-attachments/assets/d3429649-35ff-4fba-b63b-13590459878f" />
 
 
+# Kubectl
+<img width="2222" height="1201" alt="image" src="https://github.com/user-attachments/assets/389a18de-c385-46d5-a034-f90b4db47447" />
 
 
 
