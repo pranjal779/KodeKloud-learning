@@ -1,0 +1,9 @@
+# Labs: Familiarize with Lab Environment
+<img width="1017" height="713" alt="image" src="https://github.com/user-attachments/assets/72e079da-a959-4664-9c40-d1a8c090190b" />
+<img width="1018" height="275" alt="image" src="https://github.com/user-attachments/assets/4eb39165-5db9-4f43-bb4c-15a173df16fe" />
+<img width="1878" height="862" alt="image" src="https://github.com/user-attachments/assets/cd682e8c-d45c-4f5d-831e-3cf699dea6d9" />
+<img width="1726" height="752" alt="image" src="https://github.com/user-attachments/assets/40eb1e43-a9a5-4fc4-8939-c3a94fb22ac9" />
+<img width="1025" height="738" alt="image" src="https://github.com/user-attachments/assets/7e766e3e-dcc8-4a9e-9152-886bd80ec3af" />
+<img width="1017" height="316" alt="image" src="https://github.com/user-attachments/assets/cc415d66-e362-41a0-80d8-ccd5f0c2616c" />
+<img width="2467" height="1020" alt="image" src="https://github.com/user-attachments/assets/21dde613-3378-4796-b8be-5b7f3b1a6046" />
+<img width="2497" height="841" alt="image" src="https://github.com/user-attachments/assets/fa507db6-cb59-4586-808f-cb43bffd67e8" />
