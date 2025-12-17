@@ -40,3 +40,7 @@ Grapes:
 
 
 
+# Dictionary vs List vs List of Dictionaries
+<img width="1850" height="1101" alt="image" src="https://github.com/user-attachments/assets/5c1f3cfb-728e-4093-a751-60ba35270e29" />
+
+<img width="1617" height="1071" alt="image" src="https://github.com/user-attachments/assets/13866600-108b-41f3-9b4e-8ee32c553d2a" />
