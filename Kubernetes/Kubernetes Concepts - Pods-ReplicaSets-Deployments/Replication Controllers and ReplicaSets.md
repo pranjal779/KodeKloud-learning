@@ -38,3 +38,22 @@
 <img width="2442" height="1157" alt="image" src="https://github.com/user-attachments/assets/da113dfb-29b0-432d-a3f2-7371ef397928" />
 
 # Labels and Selectors
+<img width="602" height="1125" alt="image" src="https://github.com/user-attachments/assets/aa35ad34-e810-4b03-a52b-2d2cd2b667bc" />
+<img width="2211" height="1066" alt="image" src="https://github.com/user-attachments/assets/07b072c3-8bc2-46a6-b2fa-f819b5fb1576" />
+<img width="2362" height="1092" alt="image" src="https://github.com/user-attachments/assets/13c29691-6640-4332-9f46-e50391295eb9" />
+<img width="2382" height="1121" alt="image" src="https://github.com/user-attachments/assets/2046b3a8-2847-4d6d-9b38-c4af6f0885d3" />
+
+
+<img width="581" height="1176" alt="image" src="https://github.com/user-attachments/assets/a67520ff-8d13-4920-9756-80516a102f7c" />
+<img width="2411" height="1216" alt="image" src="https://github.com/user-attachments/assets/cd0c19ea-9328-4eca-a63a-94ed8494d140" />
+<img width="2521" height="1398" alt="image" src="https://github.com/user-attachments/assets/6f4bef35-29fd-406f-87d3-295847f442da" />
+<img width="590" height="878" alt="image" src="https://github.com/user-attachments/assets/4750f4b1-2fd3-45d9-b7e9-fb271865c362" />
+
+# Scale the Repilca Sets
+<img width="583" height="1125" alt="image" src="https://github.com/user-attachments/assets/3fbc847f-3cb1-4f78-9a2a-340bc402cbec" />
+<img width="2466" height="1332" alt="image" src="https://github.com/user-attachments/assets/a6efb83a-bd77-42f2-a5ef-a975a8e64010" />
+<img width="2447" height="1281" alt="image" src="https://github.com/user-attachments/assets/8a052126-ce11-45fa-912e-e99ea56b051b" />
+<img width="2433" height="1227" alt="image" src="https://github.com/user-attachments/assets/fd8bf824-1bad-4ad6-a79a-ea0a7a931dbe" />
+
+# Commands
+<img width="2467" height="1431" alt="image" src="https://github.com/user-attachments/assets/1ce9faa5-d430-4d83-9a67-dfd356d71719" />
