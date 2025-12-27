@@ -62,10 +62,13 @@ kubectl get pods
 ```sh
 kubectl create -f replicaset-definition.yml
 kubectl get replicaset
-kubect get pods
+kubectl get pods
 ```
 
 <img width="2451" height="1428" alt="image" src="https://github.com/user-attachments/assets/c3a3c8cd-b1eb-4de4-a7d0-03809657121e" />
+
+# Labels and Selectors
+<img width="2306" height="1407" alt="image" src="https://github.com/user-attachments/assets/998bf908-eaac-4eb8-9a42-fdb30a5c3af9" />
 
 
 
