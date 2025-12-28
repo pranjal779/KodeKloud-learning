@@ -69,13 +69,46 @@ kubectl get pods
 
 # Labels and Selectors
 <img width="2306" height="1407" alt="image" src="https://github.com/user-attachments/assets/998bf908-eaac-4eb8-9a42-fdb30a5c3af9" />
+<img width="2172" height="1133" alt="image" src="https://github.com/user-attachments/assets/4667f057-782b-482f-8f68-59ab14018303" />
+<img width="2387" height="1078" alt="image" src="https://github.com/user-attachments/assets/9b8b13a7-7475-4590-aa7d-56658597eb75" />
 
 
+<img width="2445" height="1412" alt="image" src="https://github.com/user-attachments/assets/192c2c33-b359-4a36-bbd4-03f4d3d2f65e" />
+<img width="672" height="1168" alt="image" src="https://github.com/user-attachments/assets/875afd12-8fa1-44e8-9c1c-11cefca56237" />
+<img width="2507" height="1430" alt="image" src="https://github.com/user-attachments/assets/fa91de8e-6aaf-4aa7-bf01-1a97a62a0260" />
 
+# Commands to Scale
 
+```sh
+kubectl apply -f replicaset-definition.yml
+kubectl scale --replicas=6 -f replicaset-definition.yml
+kubectl scale --replicas=6 replicaset myapp-replicaset
+```
 
+# Review Commands
 
+```sh
+kubectl create -f replicaset-definition.yml
+kubcetl get replicaset
+kubectl delete replicaset myapp-replicaset
+kubectl replace -f replicaset-definition.yml
+kubectl scale -replicas=6 -f replicaset-definition.yml
+```
 
+<img width="2407" height="1407" alt="image" src="https://github.com/user-attachments/assets/441c7983-0ebf-4e29-8c06-fda1e8cc74d7" />
+
+<img width="652" height="1018" alt="image" src="https://github.com/user-attachments/assets/bebae287-09f6-49c9-88c0-768a681ea8a8" />
+<img width="647" height="1071" alt="image" src="https://github.com/user-attachments/assets/54377d0d-743a-4c63-990e-edb4b3596ccb" />
+<img width="648" height="1068" alt="image" src="https://github.com/user-attachments/assets/8c70f6c8-c29d-46f9-a6a5-cc04839892d5" />
+<img width="632" height="1125" alt="image" src="https://github.com/user-attachments/assets/4facabb6-0d7e-452c-a485-26f81da6d75f" />
+<img width="671" height="1063" alt="image" src="https://github.com/user-attachments/assets/0ffb0c70-35f0-4ec3-98ae-89538aef0b77" />
+<img width="650" height="1118" alt="image" src="https://github.com/user-attachments/assets/e6ce0c3d-9b8f-4b51-a2d6-f293b9687308" />
+<img width="700" height="1117" alt="image" src="https://github.com/user-attachments/assets/45243224-3da1-4da4-a970-8b8fff619c24" />
+<img width="662" height="1043" alt="image" src="https://github.com/user-attachments/assets/4c5fd121-b7ce-49b1-ac2b-0573c89bce8d" />
+<img width="635" height="1111" alt="image" src="https://github.com/user-attachments/assets/7882c51f-3e09-424d-826a-dbaf0d2a4761" />
+<img width="637" height="1090" alt="image" src="https://github.com/user-attachments/assets/c39eeb23-1b19-42cf-821d-e24401454708" />
+<img width="643" height="1143" alt="image" src="https://github.com/user-attachments/assets/924e5759-5524-4d1c-9fd7-d52c6a05975b" />
+<img width="643" height="780" alt="image" src="https://github.com/user-attachments/assets/bce6ee8c-8b45-4abb-9afc-22981d74f298" />
 
 
 
