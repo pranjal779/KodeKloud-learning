@@ -1,5 +1,6 @@
 # Demo - ReplicaSets
 
+<img width="2117" height="1382" alt="image" src="https://github.com/user-attachments/assets/d2891eb2-1acf-4aa3-8d68-8651b66e3eed" />
 <img width="2228" height="1237" alt="image" src="https://github.com/user-attachments/assets/c907fe02-28c3-4038-a1bd-664caf1f1550" />
 <img width="1748" height="582" alt="image" src="https://github.com/user-attachments/assets/bd1aa5fc-8d94-40b2-b969-524b9abd5b74" />
 <img width="1520" height="511" alt="image" src="https://github.com/user-attachments/assets/cc7947d8-8689-4237-a77a-e4da6c118ef9" />
