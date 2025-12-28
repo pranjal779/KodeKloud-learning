@@ -1,5 +1,8 @@
 # Course Content
 
+## Good Links to Visit:
+- [kubectl-commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+
 
 # Introduction
 - Introduction 02:49
