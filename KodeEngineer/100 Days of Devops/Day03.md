@@ -150,6 +150,8 @@ Last login: Mon Feb 16 18:14:12 2026 from 172.16.238.3
 [sudo] password for tony: 
 [tony@stapp01 ~]$ sudo systemctl restart sshd
 [tony@stapp01 ~]$ exit
+
+Task was not successful 
 logout
 Connection to stapp01 closed.
 thor@jumphost ~$
