@@ -1,4 +1,6 @@
 # Day 9: MariaDB Troubleshooting
+
+[Day 9 of 100 Days Of DevOps: Troubleshooting MariaDB in Production](https://blog.devops.dev/day-9-of-100-days-of-devops-troubleshooting-mariadb-in-production-b12958a61477)
 <img width="1460" height="797" alt="image" src="https://github.com/user-attachments/assets/c65b15e2-b817-409a-8856-800a7981b175" />
 
 <img width="966" height="588" alt="image" src="https://github.com/user-attachments/assets/d49072e1-b21a-4e38-a0bb-b5dbc1b44a6c" />
