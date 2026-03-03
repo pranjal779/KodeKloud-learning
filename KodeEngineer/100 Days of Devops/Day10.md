@@ -424,3 +424,5 @@ drwxr-xr-x 1 root  root  4096 Mar  3 12:23 ..
 <img width="1987" height="1170" alt="image" src="https://github.com/user-attachments/assets/3b79b4b6-e6fb-45c5-b102-ceec032095d3" />
 
 <img width="961" height="707" alt="image" src="https://github.com/user-attachments/assets/cf55df0a-ad6b-4818-bab3-cf8eee7be837" />
+
+https://medium.com/@janemils/kodekloud-engineer-day-10-linux-bash-scripts-bd4a4f7291bd
