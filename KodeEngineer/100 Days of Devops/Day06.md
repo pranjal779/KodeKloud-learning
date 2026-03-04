@@ -14,6 +14,19 @@ a. Install cronie package on all Nautilus app servers and start crond service.
 b. Add a cron */5 * * * * echo hello > /tmp/cron_text for root user.
 ```
 
+```text
+"Need to test similar functionality with a sample cron job" means that before deploying the actual,
+crucial automation scripts (like for backups or updates) across all app servers,
+the system administrators want to verify the basic functionality of the cron scheduling system itself using a simple, harmless test. 
+
+This is a best practice in DevOps and system administration to:
+- Prevent Downtime/Errors: Ensure the scheduling mechanism (crond service) is installed, running correctly, and properly configured on all servers to avoid potential issues in production later.
+- Confirm Syntax: Verify that the cron job syntax and path definitions are correct in that specific environment before using the real, complex scripts.
+- Monitor Output: By using a simple command that writes "hello" to a temporary file every five minutes, they can easily confirm the job is executing as intended and logging output correctly. 
+
+Essentially, the "sample cron job" acts as a proof of concept to ensure the foundation for automation is solid before trusting it with critical day-to-day tasks.
+```
+
 
 ```sh
 a. Install cronie package on all Nautilus app servers and start crond service 
