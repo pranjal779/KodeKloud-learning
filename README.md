@@ -3,6 +3,8 @@
 
 ## Do check out the toRedo pages in each sections folders
 
+### [Linux related](https://kodekloud.com/learning-path/linux/)
+
 
 # Roadmap:
 
