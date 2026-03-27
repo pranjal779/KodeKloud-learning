@@ -46,4 +46,9 @@
 <img width="977" height="565" alt="image" src="https://github.com/user-attachments/assets/0e022630-1b45-4b36-aa0f-8b7e7c459824" />
 
 
+# Terraform State Considerations
+<img width="1323" height="671" alt="image" src="https://github.com/user-attachments/assets/bbb1fb4c-c77e-4170-af87-256e41f3fc7c" />
+<img width="1651" height="1150" alt="image" src="https://github.com/user-attachments/assets/c5e640a4-5062-4a8a-8389-7d72cebeceff" />
+<img width="2058" height="1062" alt="image" src="https://github.com/user-attachments/assets/cfb88119-a08a-45a7-a03f-8551ee2228a9" />
+<img width="2032" height="1061" alt="image" src="https://github.com/user-attachments/assets/a02ac3f6-dc75-4384-beb1-16eeae429888" />
 
