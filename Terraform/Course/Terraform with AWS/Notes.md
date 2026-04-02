@@ -22,3 +22,14 @@
 
 # Introduction to DynamoDB
 
+# What is Remote State and State Locking?
+
+# Remote Backends with S3
+
+# Lab: Remote State
+
+# Terraform State Commands
+<img width="1951" height="1182" alt="image" src="https://github.com/user-attachments/assets/1dc01873-5e17-4a14-90ac-fc5a9a8d9aec" />
+
+# Lab: Terraform State Commands
+
