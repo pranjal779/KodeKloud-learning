@@ -21,3 +21,13 @@
 <img width="1772" height="1187" alt="image" src="https://github.com/user-attachments/assets/6c171132-7403-44b6-8fd6-4cc8b9df5c29" />
 <img width="1715" height="1206" alt="image" src="https://github.com/user-attachments/assets/286c619d-2101-4d38-ac7e-3537714a20a3" />
 
+# Terraform Import
+<img width="1062" height="861" alt="image" src="https://github.com/user-attachments/assets/3b1203b4-4be2-42c8-b13d-e9744dbdeaab" />
+<img width="1972" height="1177" alt="image" src="https://github.com/user-attachments/assets/1e336942-b277-4179-bdf2-1f77565558e5" />
+<img width="1677" height="1193" alt="image" src="https://github.com/user-attachments/assets/771b07d5-d8aa-4238-89a2-3e21c76b7c35" />
+<img width="1593" height="865" alt="image" src="https://github.com/user-attachments/assets/53f212c6-a08a-45dc-a2ec-d85faec8cdb2" />
+<img width="1537" height="965" alt="image" src="https://github.com/user-attachments/assets/3a0d9ee5-6a2b-4f62-bd30-e4bdaa2ef67b" />
+<img width="1688" height="1175" alt="image" src="https://github.com/user-attachments/assets/3c32df63-440c-4faf-b8d2-01f2a2e9c2d8" />
+<img width="1830" height="1212" alt="image" src="https://github.com/user-attachments/assets/8fc5f1ea-56dd-4c9a-895b-bea838331db1" />
+<img width="1347" height="1181" alt="image" src="https://github.com/user-attachments/assets/cd804e76-9676-482e-88e8-c5395c4b74ec" />
+<img width="1570" height="1218" alt="image" src="https://github.com/user-attachments/assets/f6ebc20b-45fa-4701-845f-c3d39c530d9c" />
