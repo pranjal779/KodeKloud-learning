@@ -17,4 +17,51 @@
 
 # Demo: Deploying Our First Application on Istio
 <img width="2201" height="1212" alt="image" src="https://github.com/user-attachments/assets/2156f540-4d70-4312-a670-c3f20e30efbb" />
+<img width="2062" height="981" alt="image" src="https://github.com/user-attachments/assets/028f07da-b365-4454-ab15-00e7508da65b" />
+<img width="2072" height="946" alt="image" src="https://github.com/user-attachments/assets/7552b14b-9406-4d33-9dc4-7d73d9b2e506" />
+<img width="2227" height="977" alt="image" src="https://github.com/user-attachments/assets/50981466-2c70-40cd-93cb-d8bb65020628" />
+<img width="2182" height="1013" alt="image" src="https://github.com/user-attachments/assets/34f13004-dfb6-4f9f-b893-8bae773e68b2" />
+<img width="2137" height="1017" alt="image" src="https://github.com/user-attachments/assets/abd2dab9-6362-4e17-864b-9262ded6d5f0" />
+<img width="2246" height="1012" alt="image" src="https://github.com/user-attachments/assets/930930d9-c0a6-4b96-8ab4-5223d413e64f" />
+<img width="2042" height="985" alt="image" src="https://github.com/user-attachments/assets/4a544df4-a4a1-4218-8b0e-fdc963b2899e" />
+
+# Lab: Deploying Our First Application on Istio
+
+
+# Visualizing Service Mesh with Kiali
+<img width="2172" height="1208" alt="image" src="https://github.com/user-attachments/assets/d6a88275-a3a4-4129-8bc7-d60accee27e4" />
+<img width="1775" height="968" alt="image" src="https://github.com/user-attachments/assets/9fa6b956-0dd2-4569-b3dd-db16fa619b5d" />
+<img width="1737" height="962" alt="image" src="https://github.com/user-attachments/assets/694b29a1-29bd-4bd8-94a6-f30fd3453584" />
+
+
+# Demo: Installing Kiali
+
+
+# Demo: Create Traffic Into Your Mesh
+<img width="2148" height="1162" alt="image" src="https://github.com/user-attachments/assets/9fa3b092-06c5-4c32-8460-ee941943f4b0" />
+<img width="2047" height="976" alt="image" src="https://github.com/user-attachments/assets/72ad9d30-1f37-43f4-a127-35b6340d2a0d" />
+<img width="2043" height="982" alt="image" src="https://github.com/user-attachments/assets/a9eafee1-ee2c-4504-8e7b-ae4f69ca062f" />
+<img width="2048" height="985" alt="image" src="https://github.com/user-attachments/assets/44fff7f5-2691-4d5d-afbb-46d2c2f2a440" />
+<img width="2060" height="992" alt="image" src="https://github.com/user-attachments/assets/58395cf9-a282-414e-a38d-22698bd66679" />
+<img width="2182" height="976" alt="image" src="https://github.com/user-attachments/assets/4813ecfd-2623-44bb-9323-e1d2b1feb024" />
+<img width="2046" height="992" alt="image" src="https://github.com/user-attachments/assets/1dc261ab-e0ac-46e1-8fa9-669a67e8cd46" />
+<img width="2030" height="977" alt="image" src="https://github.com/user-attachments/assets/40482f81-605a-47c3-8c9f-9b7de308bb56" />
+<img width="2078" height="987" alt="image" src="https://github.com/user-attachments/assets/731f599f-73a3-444a-b15f-cd3f7ff238a2" />
+<img width="2032" height="985" alt="image" src="https://github.com/user-attachments/assets/a0269f95-b616-4317-b268-c6a17b2723d8" />
+<img width="2032" height="977" alt="image" src="https://github.com/user-attachments/assets/94f5fca7-56a2-462e-a367-c1457cda0e4e" />
+<img width="2052" height="965" alt="image" src="https://github.com/user-attachments/assets/eac82474-eb67-46cb-b9cd-d7780a5ad6c9" />
+
+
+
+# Lab: Istio Kiali
+
+
+
+
+
+
+
+
+
+
 
