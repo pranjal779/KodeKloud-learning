@@ -28,7 +28,22 @@
 # Installing Istioctl
 
 <img width="587" height="970" alt="image" src="https://github.com/user-attachments/assets/c27d7036-2755-4d32-b12d-214286eb66f6" />
+<img width="2082" height="1012" alt="image" src="https://github.com/user-attachments/assets/b69ca3ac-b6c0-44e4-86ca-e9960abc2aa0" />
+<img width="2057" height="1038" alt="image" src="https://github.com/user-attachments/assets/a25f1309-cdce-4bd4-8ee3-3e5c6a04ce9e" />
+<img width="2031" height="956" alt="image" src="https://github.com/user-attachments/assets/901d210a-0f65-441c-bcb1-2372eab80056" />
+<img width="2136" height="991" alt="image" src="https://github.com/user-attachments/assets/5e5d222b-4beb-4623-9c89-6b7f55b1279c" />
+<img width="2197" height="927" alt="image" src="https://github.com/user-attachments/assets/34771d0e-b771-4c09-8088-fdc3a6e061da" />
+<img width="2117" height="1021" alt="image" src="https://github.com/user-attachments/assets/01e8ced7-89ca-4498-bdba-e414c2684902" />
+<img width="2055" height="1003" alt="image" src="https://github.com/user-attachments/assets/84f08051-24ef-4ab0-8aed-52321bca0dff" />
+<img width="2085" height="1022" alt="image" src="https://github.com/user-attachments/assets/782dd044-40e3-43ad-a163-997bcd849c8d" />
+<img width="2072" height="1005" alt="image" src="https://github.com/user-attachments/assets/733b50c6-01f7-4121-83d9-4be9dfbd0974" />
+<img width="2122" height="1000" alt="image" src="https://github.com/user-attachments/assets/cf5671d4-5176-42b7-9757-e1baf68142e4" />
 
+
+# Installing Istio on Your Cluster
+<img width="2086" height="832" alt="image" src="https://github.com/user-attachments/assets/847603a8-4ed7-42ed-a0b8-3e3e62d7a346" />
+<img width="2215" height="965" alt="image" src="https://github.com/user-attachments/assets/eea144e9-f353-400b-9478-735d00f5adfc" />
+<img width="2281" height="912" alt="image" src="https://github.com/user-attachments/assets/abaa8050-71e9-4665-97e3-f8c6da431225" />
 
 
 
