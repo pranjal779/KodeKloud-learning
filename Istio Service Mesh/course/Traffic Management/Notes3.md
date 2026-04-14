@@ -33,6 +33,10 @@
 
 # A/B Testing
 
+<img width="2037" height="967" alt="image" src="https://github.com/user-attachments/assets/8fb452de-f4e9-47ff-8342-7159a2534dfe" />
+<img width="2042" height="976" alt="image" src="https://github.com/user-attachments/assets/3391687d-d2ea-4cef-af57-fd510b6a76c6" />
+<img width="2057" height="1003" alt="image" src="https://github.com/user-attachments/assets/521305f8-470b-4f6d-a4c0-fac41e31afae" />
+<img width="2065" height="960" alt="image" src="https://github.com/user-attachments/assets/cc2d9841-8166-456b-a859-738aad8789f3" />
 
 
 
