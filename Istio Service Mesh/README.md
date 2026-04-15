@@ -2,6 +2,8 @@ Istio Service Mesh
 Level: Associate  
 Course Duration: 2.75 Hours  
 
+<img width="1393" height="990" alt="image" src="https://github.com/user-attachments/assets/d06cbb5a-d13f-48bc-b39a-24c308c8ed42" />
+
 
 This course will let you explore and tackle the challenges developers and operators face with a distributed or microservices architecture with Istio.  
 Istio is an open-source service mesh that lets you connect, monitor, and secure microservices deployed on-premise, in the cloud, or with orchestration platforms like Kubernetes and Mesos.  
