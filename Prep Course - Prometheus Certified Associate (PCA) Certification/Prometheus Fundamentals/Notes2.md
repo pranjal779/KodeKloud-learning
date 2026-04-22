@@ -32,6 +32,13 @@
 # Prometheus Installation Demo
 
 <img width="2521" height="1212" alt="image" src="https://github.com/user-attachments/assets/5c87802f-e9d6-4d28-8fbd-cced1613d919" />
+<img width="2051" height="996" alt="image" src="https://github.com/user-attachments/assets/03139e22-91ae-426a-b4c4-c296bc6a28e7" />
+<img width="2066" height="997" alt="image" src="https://github.com/user-attachments/assets/d7ef16bb-c801-4a3c-a241-8ef5d3eee08e" />
+<img width="2045" height="988" alt="image" src="https://github.com/user-attachments/assets/83aad297-394a-457e-8a96-11944cee077f" />
+<img width="2032" height="987" alt="image" src="https://github.com/user-attachments/assets/66c65487-a0ad-4c1b-adb3-d0483ff51bda" />
+<img width="2062" height="1008" alt="image" src="https://github.com/user-attachments/assets/de8f3df2-4398-4972-be03-31394cf5be21" />
+<img width="2091" height="992" alt="image" src="https://github.com/user-attachments/assets/83d17891-f1cc-40ae-a38e-54402904d256" />
+<img width="2052" height="1002" alt="image" src="https://github.com/user-attachments/assets/41a79982-e3f0-44ab-bf8e-906eeedcfb36" />
 
 
 
