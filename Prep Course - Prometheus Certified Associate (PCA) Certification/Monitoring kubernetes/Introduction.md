@@ -16,3 +16,21 @@
 <img width="2082" height="980" alt="image" src="https://github.com/user-attachments/assets/e6248a19-f57b-42d7-98ba-c0fe38aa58f8" />
 <img width="2096" height="981" alt="image" src="https://github.com/user-attachments/assets/c05b87d0-0989-4997-ba52-1d7ce2eccec7" />
 <img width="2065" height="1002" alt="image" src="https://github.com/user-attachments/assets/2649c0e9-391c-40d9-8d94-e52aec9dc09b" />
+<img width="2107" height="988" alt="image" src="https://github.com/user-attachments/assets/be90b7f3-c020-4cd2-8cc3-0182b40991dc" />
+<img width="2077" height="985" alt="image" src="https://github.com/user-attachments/assets/01fdcac6-7e49-444a-99e1-4d36066cb407" />
+<img width="2032" height="990" alt="image" src="https://github.com/user-attachments/assets/e307b4e8-fffc-4c1d-940d-4cc0104f9bd8" />
+<img width="2152" height="1048" alt="image" src="https://github.com/user-attachments/assets/27e37fec-29cf-4ef4-8c51-92958358036b" />
+<img width="2057" height="988" alt="image" src="https://github.com/user-attachments/assets/207cd3ae-4007-4bda-ad5c-933447579416" />
+<img width="2090" height="992" alt="image" src="https://github.com/user-attachments/assets/5d4478f3-1fc2-4ec0-84bf-a87d44e9e6d9" />
+<img width="2088" height="982" alt="image" src="https://github.com/user-attachments/assets/8879cc7d-4f79-4d98-a1d9-0787a6bca808" />
+<img width="2161" height="1013" alt="image" src="https://github.com/user-attachments/assets/ff5a5363-c981-4499-9e6c-ca1922c82a90" />
+<img width="2118" height="1012" alt="image" src="https://github.com/user-attachments/assets/72489c39-e02a-4532-aa7a-1a5a88410f02" />
+<img width="2111" height="997" alt="image" src="https://github.com/user-attachments/assets/e9176512-7fc7-4cdf-8973-a3a958b5649e" />
+<img width="2122" height="1001" alt="image" src="https://github.com/user-attachments/assets/bd44122c-996e-4d29-abc3-4d68ef278c84" />
+<img width="2135" height="1025" alt="image" src="https://github.com/user-attachments/assets/09b38ab4-87b4-4919-a365-abc006642530" />
+<img width="2122" height="1057" alt="image" src="https://github.com/user-attachments/assets/904aa26b-ab1d-4ac5-b109-cfc21e18d185" />
+<img width="2028" height="993" alt="image" src="https://github.com/user-attachments/assets/8813de28-0f6a-4b19-8b25-4332911db7e9" />
+
+
+# Installing Helm Chart
+
