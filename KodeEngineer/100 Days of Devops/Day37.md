@@ -545,3 +545,27 @@ This helps you understand:
 That’s how people really learn containers deeply.
 
 
+----------------
+
+thor@jump-host ~$ ssh banner@stapp03
+The authenticity of host 'stapp03 (10.244.30.32)' can't be established.
+ED25519 key fingerprint is SHA256:6MJQxvHZkn2myRn7t9TSWTsQsi6YX6cES85iv1fxqK8.
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'stapp03' (ED25519) to the list of known hosts.
+banner@stapp03's password: 
+[banner@stapp03 ~]$ docker PS
+docker: 'PS' is not a docker command.
+See 'docker --help'
+[banner@stapp03 ~]$ docker ps
+CONTAINER ID   IMAGE     COMMAND       CREATED              STATUS              PORTS     NAMES
+8276c5d48d29   ubuntu    "/bin/bash"   About a minute ago   Up About a minute             ubuntu_latest
+[banner@stapp03 ~]$ docker cp /tmp/nautilus.txt.gpg ubuntu_latest:/opt/
+Successfully copied 2.05kB to ubuntu_latest:/opt/
+[banner@stapp03 ~]$ docker exec 8276c5d48d29 test -f /opt/nautilus.txt.gpg && echo "File exist" || "File NOT found"
+File exist
+[banner@stapp03 ~]$ 
+[banner@stapp03 ~]$ docker exec 8276c5d48d29 ls -l /opt/
+total 4
+-rw-r--r-- 1 root root 105 May 13 07:00 nautilus.txt.gpg
+[banner@stapp03 ~]$ 
