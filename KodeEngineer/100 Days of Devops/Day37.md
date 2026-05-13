@@ -547,6 +547,7 @@ That’s how people really learn containers deeply.
 
 ----------------
 
+```sh
 thor@jump-host ~$ ssh banner@stapp03
 The authenticity of host 'stapp03 (10.244.30.32)' can't be established.
 ED25519 key fingerprint is SHA256:6MJQxvHZkn2myRn7t9TSWTsQsi6YX6cES85iv1fxqK8.
@@ -569,3 +570,13 @@ File exist
 total 4
 -rw-r--r-- 1 root root 105 May 13 07:00 nautilus.txt.gpg
 [banner@stapp03 ~]$ 
+[banner@stapp03 ~]$ docker exec -it ubuntu_latest bash
+root@8276c5d48d29:/# cd /opt
+root@8276c5d48d29:/opt# ls -l
+total 4
+-rw-r--r-- 1 root root 105 May 13 07:00 nautilus.txt.gpg
+root@8276c5d48d29:/opt# 
+```
+
+<img width="2382" height="1166" alt="image" src="https://github.com/user-attachments/assets/dced9e93-1bb7-4fed-869c-638dae9075b2" />
+<img width="2330" height="1165" alt="image" src="https://github.com/user-attachments/assets/1680880c-a252-4461-a0d3-2d2f2b361741" />
