@@ -1,5 +1,8 @@
 # Day 40: Docker EXEC Operations
 
+[KodeKloud Engineer Day 40: Docker EXEC Operations.-JaneMills](https://medium.com/@janemils/kodekloud-engineer-day-40-docker-exec-operations-745da44bfbbe)
+
+
 <img width="1312" height="742" alt="image" src="https://github.com/user-attachments/assets/06a619ae-a14e-45c9-a693-ccfa4c670b21" />
 
 
