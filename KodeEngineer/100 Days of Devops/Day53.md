@@ -1,5 +1,9 @@
 # Day 53: Resolve VolumeMounts Issue in Kubernetes
 
+[reference 1](https://medium.com/@rkasthuri2002/100-days-of-devops-with-kodekloud-days-51-60-mastering-kubernetes-deployments-and-b02216146544)
+[reference 2](https://chris-young.net/53-100/)
+[reference 3](https://dev.to/wycliffealphus/100-days-of-devops-day-53-3ida)
+
 <img width="788" height="477" alt="image" src="https://github.com/user-attachments/assets/33739b9b-214c-469b-b49f-aa549c6115c0" />
 
 We encountered an issue with our Nginx and PHP-FPM setup on the Kubernetes cluster this morning, which halted its functionality. Investigate and rectify the issue:  
