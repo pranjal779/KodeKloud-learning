@@ -120,3 +120,44 @@ thor@jump-host ~$ \
 <img width="1052" height="997" alt="image" src="https://github.com/user-attachments/assets/82d206c5-128a-4b1f-91ed-72b22e0db937" />
 <img width="1017" height="712" alt="image" src="https://github.com/user-attachments/assets/3354ea41-5f6b-49cd-ade0-dd80c2ebbabb" />
 
+# Init Containers
+Init containers are specialized containers in a Kubernetes Pod that run to completion before any regular application containers start.  
+They are designed to handle setup tasks—like preparing data, configuring prerequisites, or waiting for dependencies—ensuring the main application starts in a ready and stable state.  
+
+## Key Characteristics  
+- **Sequential Execution:** If a Pod has multiple init containers, they run one by one in the order they are defined.  
+- **Run to Completion:** Each init container must finish successfully before the next one starts or before the main container begins.  
+- **Fail-Fast Behavior:** If an init container fails, Kubernetes restarts the entire Pod repeatedly until it succeeds (unless the restartPolicy is set to Never).  
+- **Resource Sharing:** They share the same network namespace and storage volumes as the main containers, allowing them to prepare files for the application
+
+## Common Use Cases
+
+- **Waiting for Dependencies:** Delaying application startup until an external service, like a database or API, is reachable.
+- **Setting Up Permissions:** Adjusting file system permissions on a shared volume that the main application needs to access.
+- **Secret Management:** Fetching sensitive credentials or certificates from a vault (e.g., AWS Secrets Manager) and placing them in a shared directory.
+- **Database Migrations:** Running schema updates or initial data seeding before the web server starts.
+- **Reducing Image Size:** Keeping setup tools (like curl, git, or sed) in a temporary init container so the main application image remains lightweight and secure.
+
+## Init vs. Sidecar Containers
+While both are auxiliary containers within a Pod, they serve different roles:
+- **[Init Containers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/)**: Run and terminate before the app starts; used for one-time setup.
+- **[Sidecar Containers](https://kubernetes.io/docs/concepts/workloads/pods/sidecar-containers/)**: Run alongside the main container for its entire lifecycle; used for continuous tasks like logging, monitoring, or proxying.
+
+
+
+https://www.reddit.com/r/kubernetes/comments/1ilz426/master_kubernetes_init_containers_a_complete/
+https://www.youtube.com/watch?v=8oIhk0F1ATQ&t=48
+https://devopscube.com/kubernetes-init-containers/
+https://zesty.co/finops-glossary/init-containers-in-kubernetes/
+https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-initialization/
+https://kubernetes.io/docs/concepts/workloads/pods/sidecar-containers/
+https://docs.okd.io/latest/nodes/containers/nodes-containers-init.html
+https://medium.com/@Ibraheemcisse/my-deep-dive-into-kubernetes-init-containers-when-order-matters-8977d77611bb
+https://docs.appian.com/suite/help/26.4/init-and-sidecar-containers.html
+https://www.linkedin.com/pulse/day1960-init-containers-hidden-hero-kubernetes-pods-shruthi-chikkela-bqthe
+https://www.youtube.com/watch?v=1tNtUBf6lXs&t=9
+https://www.civo.com/academy/kubernetes-objects/introduction-to-init-containers
+https://medium.com/@iamsteffinissac/comprehensive-guide-to-kubernetes-init-containers-d7b2a548c5d7
+https://prathapreddy-mudium.medium.com/kubernetes-init-containers-in-pods-ab4077afdd6c
+https://medium.com/@ezgitastan/init-containers-a-deep-dive-ebbd5d96e624
+https://kubernetes.io/docs/concepts/workloads/pods/init-containers/
