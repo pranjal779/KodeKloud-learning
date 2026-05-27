@@ -1,5 +1,7 @@
 # Day 57: Print Environment Variables
 
+[reference](https://medium.com/@janemils/kodekloud-engineer-day-57-print-environment-variables-817572cb5e80)
+
 The Nautilus DevOps team is working on to setup some pre-requisites for an application that will send the greetings to different users.  
 There is a sample deployment, that needs to be tested.  
 Below is a scenario which needs to be configured on Kubernetes cluster.  
