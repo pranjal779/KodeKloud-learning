@@ -2,6 +2,8 @@
 
 [reference 1](https://medium.com/@rkasthuri2002/100-days-of-devops-with-kodekloud-my-journey-days-61-to-70-fd80ba5ae2f9)
 [reference 2](https://medium.com/@janemils/kodekloud-engineer-day-65-deploy-redis-deployment-on-kubernetes-4300d55ceedd)
+[reference for Kubernetes Configmap Documentation](https://kubernetes.io/docs/concepts/configuration/configmap/)  
+[reference for Configuring Redis using a ConfigMap](https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/)  
 
 The Nautilus application development team observed some performance issues with one of the application that is deployed in Kubernetes cluster.  
 After looking into number of factors, the team has suggested to use some in-memory caching utility for DB service.  
