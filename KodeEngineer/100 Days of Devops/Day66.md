@@ -231,9 +231,10 @@ thor@jump-host ~$ kubectl apply -f mysql-service.yaml
 service/mysql created
 thor@jump-host ~$
 ```
-<img width="2131" height="682" alt="image" src="https://github.com/user-attachments/assets/f48cc9ce-864b-4cb6-a8c1-4d23d64af3c2" />
+<img width="2131" height="682" alt="image" src="https://github.com/user-attachments/assets/f48cc9ce-864b-4cb6-a8c1-4d23d64af3c2" />  
 
-<img width="2477" height="1307" alt="image" src="https://github.com/user-attachments/assets/4dd61b4b-f2a9-4a50-8367-ae52db2b5780" />
+<img width="2477" height="1307" alt="image" src="https://github.com/user-attachments/assets/4dd61b4b-f2a9-4a50-8367-ae52db2b5780" />  
+
 ```sh
 thor@jump-host ~$ kubectl get svc all
 Error from server (NotFound): services "all" not found
