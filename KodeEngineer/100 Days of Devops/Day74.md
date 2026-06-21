@@ -2,6 +2,8 @@
 
 [reference 1](https://medium.com/@janemils/kodekloud-engineer-day-74-jenkins-database-backup-job-fd651378c7f6)   
 [reference 2](https://dev.to/wycliffealphus/100-days-of-devops-day-74-1a3o)  
+[reference 3](https://youtu.be/5klMUdDXCao?si=XdlHiwDC2wuTwlEn)   
+
 
 There is a requirement to create a Jenkins job to automate the database backup. Below you can find more details to accomplish this task:  
 
@@ -19,6 +21,9 @@ Note:
 You might need to install some plugins and restart Jenkins service. So, we recommend clicking on Restart Jenkins when installation is complete and no jobs are running on plugin installation/update page i.e update centre. Also, Jenkins UI sometimes gets stuck when Jenkins service restarts in the back end. In this case please make sure to refresh the UI page.  
 Please make sure to define you cron expression like this */10 * * * * (this is just an example to run job every 10 minutes).  
 For these kind of scenarios requiring changes to be done in a web UI, please take screenshots so that you can share it with us for review in case your task is marked incomplete. You may also consider using a screen recording software such as loom.com to record and share your work.  
+
+<img width="1157" height="666" alt="image" src="https://github.com/user-attachments/assets/cf5665c7-175c-471b-bb58-e5e9174bd363" />
+
 
 <img width="876" height="1222" alt="image" src="https://github.com/user-attachments/assets/916e04e4-f02f-4ca0-b39d-069f876f7b3f" />
 <img width="2216" height="1165" alt="image" src="https://github.com/user-attachments/assets/b4c94377-9afd-4599-bae0-b19c60ad25e9" />
