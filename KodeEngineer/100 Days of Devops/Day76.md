@@ -1,5 +1,8 @@
 # Day 76: Jenkins Project Security
 
+[reference 1](https://dev.to/wycliffealphus/100-days-of-devops-day-76-1fi7)
+[reference 2](https://medium.com/@janemils/kodekloud-engineer-day-76-jenkins-project-security-5273abaa24c4)
+
 The xFusionCorp Industries has recruited some new developers. There are already some existing jobs on Jenkins and two of these new developers need permissions to access those jobs. The development team has already shared those requirements with the DevOps team, so as per details mentioned below grant required permissions to the developers.  
   
 Click on the Jenkins button on the top bar to access the Jenkins UI. Login using username admin and password Adm!n321.  
