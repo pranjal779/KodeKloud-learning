@@ -371,7 +371,9 @@ Welcome to KodeKloud !
 
 
 
+<img width="2112" height="1191" alt="image" src="https://github.com/user-attachments/assets/24f0ecc9-5704-4d73-9a23-468995cef944" />
 
+<img width="2072" height="1202" alt="image" src="https://github.com/user-attachments/assets/d13cbe41-a3b7-4e9b-8d39-bcf90610a1da" />
 
 
 
