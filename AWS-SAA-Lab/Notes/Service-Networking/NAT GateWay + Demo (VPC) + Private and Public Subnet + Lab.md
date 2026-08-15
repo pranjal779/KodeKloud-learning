@@ -40,13 +40,14 @@ https://github.com/user-attachments/assets/24d4fb98-8fcf-448a-8a45-488e73b719fb
 <img width="2477" height="1221" alt="image" src="https://github.com/user-attachments/assets/40dd04ff-8374-4927-9d40-aeea8209fd0c" />
 <img width="2476" height="1207" alt="image" src="https://github.com/user-attachments/assets/0f8c49fc-64aa-4660-8b1f-136797ded87c" />
 
+# Private and public Subnet
+
+<img width="2472" height="1221" alt="image" src="https://github.com/user-attachments/assets/b5bc43c3-190f-4899-a8e7-ffacbfb6ee7a" />
 
 
 
 
-
-
-
+# Lab
 
 
 
