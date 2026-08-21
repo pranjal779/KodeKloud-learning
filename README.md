@@ -1,5 +1,9 @@
 # KodeKloude-learning
 
+<img width="587" height="557" alt="image" src="https://github.com/user-attachments/assets/4cb36868-a55d-4a88-9c58-290fbfb4bf19" />
+<img width="1543" height="572" alt="image" src="https://github.com/user-attachments/assets/c7e9ddc2-731e-401d-b665-686f5b4e6045" />
+
+
 
 ## Do check out the toRedo pages in each sections folders
 
