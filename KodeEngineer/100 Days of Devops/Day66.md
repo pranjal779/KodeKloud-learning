@@ -537,6 +537,7 @@ thor@jump-host ~$
 ```
 
 <img width="1042" height="1077" alt="image" src="https://github.com/user-attachments/assets/a83b3896-3a0d-484f-b3e1-db68130c988f" />
+
 ```sh
 thor@jump-host ~$ kubectl describe replicaset
 Name:           mysql-deployment-5774744b85
