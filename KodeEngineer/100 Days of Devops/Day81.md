@@ -87,6 +87,7 @@ pipeline {
 
 
 
+<img width="494" height="1282" alt="diagram-export-9-12-2026-1_42_16-PM" src="https://github.com/user-attachments/assets/02434ea6-132f-4c34-85b7-639499a47a7e" />
 
 
 
