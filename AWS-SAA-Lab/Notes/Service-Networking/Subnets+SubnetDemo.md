@@ -2,9 +2,17 @@
 <img width="2547" height="1276" alt="image" src="https://github.com/user-attachments/assets/9ba1bca5-26d9-47e3-be4f-1a41c3b7f291" />
 <img width="2542" height="1292" alt="image" src="https://github.com/user-attachments/assets/dd3c8bfa-2660-417e-acd3-d55e395ad144" />
 <img width="2028" height="982" alt="image" src="https://github.com/user-attachments/assets/6bd1a0ce-d0db-4ac3-8068-eb88bb6f0404" />
+<img width="2051" height="933" alt="image" src="https://github.com/user-attachments/assets/27951021-4483-4605-8634-a610b6f5a628" />
+
 <img width="2550" height="1297" alt="image" src="https://github.com/user-attachments/assets/9ca38061-d941-416a-8176-0bc550a97d43" />
 <img width="2106" height="1010" alt="image" src="https://github.com/user-attachments/assets/261fe25c-b770-47fe-b380-3b60e9f47942" />
+
+### Subnet Configuration Options
+
+<img width="2030" height="982" alt="image" src="https://github.com/user-attachments/assets/5e0b762d-24ac-483b-a976-ce7a55000149" />
+
 <img width="2117" height="1068" alt="image" src="https://github.com/user-attachments/assets/a60e631c-9566-47d8-aeea-772905cd8f9f" />
+
 <img width="2535" height="1286" alt="image" src="https://github.com/user-attachments/assets/2a8e366a-c001-4474-a4e4-c11805a4aad0" />
 <img width="2557" height="1261" alt="image" src="https://github.com/user-attachments/assets/33881fd5-cd04-4881-a0a1-d03d3bea3cb7" />
 <img width="2543" height="1272" alt="image" src="https://github.com/user-attachments/assets/124c1de6-f4cf-4952-af32-1c1fa3e5d880" />
