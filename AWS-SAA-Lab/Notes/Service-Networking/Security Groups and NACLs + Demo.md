@@ -142,3 +142,6 @@
 <img width="2283" height="1250" alt="image" src="https://github.com/user-attachments/assets/2f3719cf-a3f6-40db-a40c-5c2f2c470f60" />
 
 
+## Quick check
+
+<img width="1123" height="627" alt="image" src="https://github.com/user-attachments/assets/6263b2c1-a92c-4f74-9a8e-0d9f352cd63c" />
