@@ -1,4 +1,4 @@
-# Lab - Connecting three VPCs together in a region and cross-region
+# Lab - Connecting three VPCs together in a region and cross-region 01
 
 <img width="935" height="1011" alt="image" src="https://github.com/user-attachments/assets/1d6a1260-0a7e-43b1-8015-2a0207a702b3" />
 <img width="902" height="820" alt="image" src="https://github.com/user-attachments/assets/2e000b64-b390-41a3-87f3-485cd8b25081" />
