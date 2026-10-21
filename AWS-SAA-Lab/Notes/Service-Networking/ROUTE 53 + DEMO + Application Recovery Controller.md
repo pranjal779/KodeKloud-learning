@@ -53,3 +53,96 @@
 <img width="2451" height="912" alt="image" src="https://github.com/user-attachments/assets/d881ddaa-fc1d-4d10-bce5-fe746b868d5d" />
 
 
+let's make this simple. Think of Amazon Route 53 Application Recovery Controller (ARC) as a safety system that helps your application recover when an AWS Region or part of your infrastructure has a serious problem.
+
+First, one important distinction:
+
+- Amazon Route 53 helps direct users to your application.
+- Application Recovery Controller (ARC) helps you prepare for failures and safely control recovery.
+
+ARC is not just DNS routing. It has different features for different recovery situations.
+
+## 1. Imagine your application runs in two AWS Regions
+
+<img width="985" height="556" alt="image" src="https://github.com/user-attachments/assets/0ca0c642-1108-4148-bf80-f39b3eade7a5" />
+
+ARC helps you prepare for a failure and coordinate recovery. Your application, data replication, and failover design must also be configured.
+
+Suppose Region A experiences a serious failure. You need to move traffic to Region B.
+
+ARC helps you prepare and coordinate that recovery instead of relying on improvised steps during an outage.
+
+## 2. What does Application Recovery Controller actually do?
+
+For SAA-C03, remember these four main capabilities.
+
+[Minimizing Dependencies in a Disaster Recovery Plan | AWS Architecture Blog](https://images.openai.com/static-rsc-4/jhxVlJSJh59M8VkAuR7AlgqzqEq_xg1Q-bQ-kG1fybjWgOmT0VPDDjWvOp9AFE79U9ofTig94n9wmZG9gi9ta0bzKSRgsK_hKy1jFuesLJMYuApSkvmSdiLSxVbnKr6zWRJpfdJRtGZKx5j0UiOc4NOzt9A0fEX_FbeRCqSbAhU?purpose=inline)
+
+1\. Routing control
+
+<img width="1442" height="682" alt="image" src="https://github.com/user-attachments/assets/55483f17-2531-4082-a92e-4135c1e648a2" />
+
+Think of this as an emergency traffic switch. You can change a routing control state to direct traffic away from your primary Region toward a recovery Region, when your DNS and routing configuration are set up for it.
+
+Exam clue: Control traffic during multi-Region failover.
+
+[Routing control components - Amazon Application Recovery Controller (ARC)](https://images.openai.com/static-rsc-4/KUly-oDvkFVNFIZcqXqJlmOCP_L5_aiGrqxWLCITbvKOVHfZMJXSLWpMl65rXNZVqJ9Y9_zPH6JPoU-Tkqsvxr7Yc7K9TsGfVw9j9SsbCNhNbY0FS3S0sN1SADX6lmHUmQ9AKI2asNvDCB_rVr27Iriwk-aMyn2eqdXTbGzmB2Q?purpose=inline)
+
+2\. Readiness checks
+
+<img width="1948" height="1020" alt="image" src="https://github.com/user-attachments/assets/9aea9e2e-5d97-4ad4-8f60-74053fb27f8f" />
+
+
+Think of these as a pre-flight checklist. ARC checks configured resources and recovery setups to help you assess whether the recovery environment is ready.
+
+Exam clue: Assess preparedness for disaster recovery.
+
+[ゾーンシフトを用いたクロスゾーン負荷分散 | Amazon Web Services ブログ](https://images.openai.com/static-rsc-4/B4gfXos7UAY3TIpk8ej9a2vApA-5SnqfO5RzuMoFQ1wV3XHAMM87Yr24OXjFxCGJ830H2ZQu0daV777O9QdBlO-JaqxJPjysu8Nh0l6QiZBV7Ik4woHzR51K58hh998sXqCRwOK18JfMTxLcu6mKXfpYVzz1HiIziF43bnp_Gdk?purpose=inline)
+
+3\. Zonal shift
+
+<img width="2484" height="2204" alt="image" src="https://github.com/user-attachments/assets/b7aeb86b-038b-47e0-b347-ad5d320ce22f" />
+
+Think of this as temporarily closing one problematic Availability Zone to new traffic for a supported resource, such as an Application Load Balancer. Traffic can go to healthy zones instead.
+
+Exam clue: Reduce the impact of an Availability Zone impairment.
+
+[Amazon EKS now supports Amazon Application Recovery Controller | Containers](https://images.openai.com/static-rsc-4/RZBVVSL2gnWZdfGEbxp87GYyHzEfsQ2OobhNaD0fYh-dm7nNYxJlHK1v8EmIJm1ZL_ybSdPE_JKAP2zBmw-w5mutyKqD0kU60LiInDvgw7ceTMqG7pi-allntNNvSA9JOC2QOHbCgV66MAN62DeyMWnlnnL22kKwy4hrEP29dKg?purpose=inline)
+
+4\. Zonal autoshift
+
+<img width="554" height="577" alt="image" src="https://github.com/user-attachments/assets/becda06a-9340-4a95-b12b-f3335ffff3fb" />
+
+Think of this as automatic zonal traffic shifting. AWS can move traffic away from an Availability Zone when AWS determines that a qualifying impairment is affecting it, subject to the feature's configuration and supported resources.
+
+Exam clue: Automatically shift traffic away from an impaired Availability Zone.
+
+## 3. How do you distinguish ARC from other AWS services?
+
+| Service or feature                              | Simple purpose                                                                          |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Route 53 health checks and DNS routing policies | Route DNS queries based on configured policies and health checks                        |
+| Route 53 Application Recovery Controller        | Coordinate recovery, manage routing controls, assess readiness, and shift zonal traffic |
+| Elastic Load Balancing                          | Distribute traffic among targets                                                        |
+| Auto Scaling                                    | Add or replace compute capacity according to configured policies                        |
+| AWS Elastic Disaster Recovery                   | Replicate servers and support recovery of workloads                                     |
+| AWS Global Accelerator                          | Direct traffic through static anycast IP addresses to healthy endpoints                 |
+
+## 4. The exam question to remember
+
+Suppose an exam asks:
+
+An application operates across multiple AWS Regions. The company needs a mechanism to manually switch traffic to a recovery Region during a major outage and assess whether the recovery environment is ready before an incident.
+
+The best answer is Amazon Route 53 Application Recovery Controller, because the scenario combines routing control and readiness checks.
+
+If the question instead asks to move traffic away from an impaired Availability Zone, think of ARC zonal shift or zonal autoshift, depending on whether the shift is manual or automatic.
+
+One-line memory trick:
+
+- Routing control = emergency traffic switch.
+- Readiness checks = recovery preparedness checklist.
+- Zonal shift = manually move traffic away from a problematic AZ.
+- Zonal autoshift = automatically move traffic away from a qualifying impaired AZ.
+
+Remember, ARC does not magically repair your application or replicate your database. You still need a properly designed recovery environment, data strategy, and routing configuration.
