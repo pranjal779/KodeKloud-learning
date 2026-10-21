@@ -1,3 +1,5 @@
+[AWS Solution Architect Associate Exam Study Notes: Route 53](https://mattbutton.com/2017/10/15/aws-solution-architect-associate-exam-study-notes-route-53/)
+
 <img width="1598" height="1192" alt="image" src="https://github.com/user-attachments/assets/cacdb9bc-a43a-4720-89d0-d09336d0ab6a" />
 <img width="2515" height="1267" alt="image" src="https://github.com/user-attachments/assets/ad9d20f8-cb55-41d0-9302-0c13f3db07c1" />
 <img width="2517" height="1187" alt="image" src="https://github.com/user-attachments/assets/c61ced45-07a5-49d3-bce8-38b6f07cd52f" />
