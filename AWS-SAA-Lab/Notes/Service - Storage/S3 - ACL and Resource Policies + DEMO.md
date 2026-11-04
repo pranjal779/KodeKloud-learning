@@ -1,5 +1,7 @@
 # S3 - ACL and Resource Policies + DEMO
 
+[Examples of Amazon S3 bucket policies](https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html)
+
 <img width="2521" height="1251" alt="image" src="https://github.com/user-attachments/assets/3ac13311-0871-434b-baa6-af9eaf478a20" />
 <img width="2507" height="1241" alt="image" src="https://github.com/user-attachments/assets/a67d6ad4-2037-4cd8-adc2-04610dfa70f4" />
 <img width="2535" height="1166" alt="image" src="https://github.com/user-attachments/assets/61ef4c17-e857-4808-90ef-940cc400bd90" />
