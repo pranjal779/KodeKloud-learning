@@ -51,16 +51,23 @@
 <img width="2530" height="1262" alt="image" src="https://github.com/user-attachments/assets/acca7f39-de1f-462c-9b97-02f2cf84368f" />
 <img width="2497" height="1237" alt="image" src="https://github.com/user-attachments/assets/906efa9f-843c-46b6-b356-d958cb1d9373" />
 
-
-
-
 ---
 
 
+## DEMO
+
+<img width="2552" height="1272" alt="image" src="https://github.com/user-attachments/assets/333676c1-9b97-48af-b0f3-b7771b760888" />
+<img width="2032" height="1017" alt="image" src="https://github.com/user-attachments/assets/997fc8e0-479b-47ca-b7e8-db2eaf8761ab" />
+<img width="2037" height="1022" alt="image" src="https://github.com/user-attachments/assets/c6eb0027-b9aa-490b-a322-11946ce8b2af" />
+<img width="2026" height="998" alt="image" src="https://github.com/user-attachments/assets/21d59a05-a108-4ca4-b16a-cc8768114408" />
+<img width="2029" height="1017" alt="image" src="https://github.com/user-attachments/assets/d27ec0a3-4820-407b-af40-22f6f5986df6" />
+<img width="2037" height="1009" alt="image" src="https://github.com/user-attachments/assets/de6f1f59-fbac-4c9f-856c-feaff3ebc84b" />
+<img width="2033" height="1014" alt="image" src="https://github.com/user-attachments/assets/989b8296-4044-46b7-92bf-db582ae0c2bf" />
+<img width="2038" height="1006" alt="image" src="https://github.com/user-attachments/assets/a7b648b3-ea57-49d9-9e6f-0636ed44358e" />
 
 
 
-
+# Lab: Create your favorite virtual machine in EC2
 
 
 
