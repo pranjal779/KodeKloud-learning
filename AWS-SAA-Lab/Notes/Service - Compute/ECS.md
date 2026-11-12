@@ -28,12 +28,25 @@
 <img width="2032" height="994" alt="image" src="https://github.com/user-attachments/assets/a534edde-f715-4870-89d3-ed036369524e" />
 <img width="2014" height="1001" alt="image" src="https://github.com/user-attachments/assets/61f99b4d-4738-4b17-9c7c-99312512fd0b" />
 <img width="1996" height="1002" alt="image" src="https://github.com/user-attachments/assets/f50af221-caf1-4423-a84c-11aa716c38e0" />
+
+## ECS Task Definition
+
 <img width="1966" height="1005" alt="image" src="https://github.com/user-attachments/assets/e08cb21c-3eb4-4a06-af14-4467751a1331" />
 
 **13:10**
 
+<img width="2016" height="777" alt="image" src="https://github.com/user-attachments/assets/05a4c842-39d8-4f36-806f-c411454ac34f" />
+<img width="2483" height="1071" alt="image" src="https://github.com/user-attachments/assets/7ebe2f48-4bf0-4348-9f30-26ddf17fb860" />
+<img width="2017" height="946" alt="image" src="https://github.com/user-attachments/assets/05de84ac-09ff-4a12-8370-e37e386b85c6" />
+<img width="2000" height="1016" alt="image" src="https://github.com/user-attachments/assets/892dc904-c3b6-4803-8f35-d9eff2deb10c" />
+<img width="1998" height="990" alt="image" src="https://github.com/user-attachments/assets/d968bffd-635c-416f-94bb-c9c938cb5c61" />
+<img width="2002" height="988" alt="image" src="https://github.com/user-attachments/assets/89a4c165-d5f3-4de5-b4eb-cd6e4654209f" />
+<img width="2030" height="1028" alt="image" src="https://github.com/user-attachments/assets/7e7556fb-5e71-4e0c-93cb-9d9f3a6d8ccb" />
+<img width="2014" height="985" alt="image" src="https://github.com/user-attachments/assets/9f724284-fae0-4c30-8d2c-f9c88b390447" />
+<img width="2002" height="1002" alt="image" src="https://github.com/user-attachments/assets/13e8fb25-8e9e-4713-953e-fd1c47200c4c" />
+<img width="1993" height="961" alt="image" src="https://github.com/user-attachments/assets/c8234295-4db5-4f89-a109-c440fb7fded7" />
 
-
+**16:54**
 
 
 
