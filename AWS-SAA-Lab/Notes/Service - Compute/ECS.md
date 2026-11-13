@@ -47,17 +47,8 @@
 <img width="1993" height="961" alt="image" src="https://github.com/user-attachments/assets/c8234295-4db5-4f89-a109-c440fb7fded7" />
 
 **16:54**
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="2002" height="1002" alt="image" src="https://github.com/user-attachments/assets/55dd9cfb-3808-4869-8b72-b0c10104f7af" />
+<img width="1988" height="988" alt="image" src="https://github.com/user-attachments/assets/a24a85e9-d394-4de4-9384-86de427dee66" />
+<img width="2010" height="1006" alt="image" src="https://github.com/user-attachments/assets/f13212e4-3a71-40c2-8934-e74d30747db9" />
+<img width="2020" height="981" alt="image" src="https://github.com/user-attachments/assets/c577d845-990f-41ec-a952-932884ce5111" />
 
