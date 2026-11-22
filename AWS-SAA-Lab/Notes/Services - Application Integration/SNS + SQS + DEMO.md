@@ -74,28 +74,23 @@
 <img width="2536" height="1253" alt="image" src="https://github.com/user-attachments/assets/bad0111b-7cd2-43b2-9f6f-b7c37966de44" />
 <img width="581" height="1237" alt="image" src="https://github.com/user-attachments/assets/9bf7fa79-ede6-424f-8032-643f67c54c09" />
 <img width="2541" height="1212" alt="image" src="https://github.com/user-attachments/assets/ccd2890d-c350-45d1-9d10-5d56f7119b5d" />
+<img width="2497" height="1257" alt="image" src="https://github.com/user-attachments/assets/ee386aba-64f1-48b5-9028-3e5332c2bdf2" />
+<img width="576" height="1232" alt="image" src="https://github.com/user-attachments/assets/391e8a72-add6-4046-85e3-0877b2865fe2" />
+<img width="590" height="1237" alt="image" src="https://github.com/user-attachments/assets/5cae96fa-33fe-4893-9637-40923a225019" />
+<img width="586" height="1208" alt="image" src="https://github.com/user-attachments/assets/0dc4525c-b471-42be-bcf2-9a4a72e0a502" />
+<img width="2537" height="1241" alt="image" src="https://github.com/user-attachments/assets/84c25c62-6b49-41f8-9079-ab39037fa517" />
+<img width="2257" height="1253" alt="image" src="https://github.com/user-attachments/assets/140853a1-8a41-456d-833f-89ec25fbd60c" />
+<img width="2522" height="1257" alt="image" src="https://github.com/user-attachments/assets/e262a62e-b4cc-4ae0-b619-256842f0c487" />
+<img width="2547" height="1276" alt="image" src="https://github.com/user-attachments/assets/88ab6bf0-dc99-4e9b-ba30-7972409d4825" />
+<img width="592" height="1250" alt="image" src="https://github.com/user-attachments/assets/8b867c05-9afe-436e-ba89-6dfaff73af2e" />
+<img width="2536" height="1297" alt="image" src="https://github.com/user-attachments/assets/0c7fa179-220a-496a-a3ee-1584c87c782b" />
+<img width="2556" height="1273" alt="image" src="https://github.com/user-attachments/assets/f83b0ec1-c859-4f63-b782-7963d68e5a8f" />
+<img width="2557" height="1290" alt="image" src="https://github.com/user-attachments/assets/2ec79386-26b7-457d-a89b-72a3ca0f6070" />
+<img width="602" height="1247" alt="image" src="https://github.com/user-attachments/assets/1c0123eb-18b2-44cc-ab65-e77d782d62b6" />
 
+**Ignore the fine details of the Policy this is just overview**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="607" height="1235" alt="image" src="https://github.com/user-attachments/assets/c1044d30-1ef1-4fa3-9274-88a4090616e7" />
+<img width="590" height="1250" alt="image" src="https://github.com/user-attachments/assets/a1756b83-5d88-4563-b3f9-2ba96cc30388" />
+<img width="582" height="1247" alt="image" src="https://github.com/user-attachments/assets/c8c8cc61-ace1-4189-ab11-30d85398e02e" />
 
