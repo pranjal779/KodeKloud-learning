@@ -22,13 +22,14 @@
 <img width="2502" height="1228" alt="image" src="https://github.com/user-attachments/assets/4b45079b-fa3d-4993-ab1e-29ae33d06be8" />
 
 
+# Demo: AWS Translate
 
-
-
-
-
-
-
+<img width="580" height="1242" alt="image" src="https://github.com/user-attachments/assets/06ca499b-8cb0-4310-a3bf-3180c3c14df4" />
+<img width="582" height="1217" alt="image" src="https://github.com/user-attachments/assets/73376ec7-bd4b-4481-9295-c560eca536fb" />
+<img width="582" height="1237" alt="image" src="https://github.com/user-attachments/assets/db8ec3b7-a3de-4342-99a2-d672f0c17d35" />
+<img width="600" height="1231" alt="image" src="https://github.com/user-attachments/assets/89935289-e85d-4026-bea3-351a432b91a8" />
+<img width="585" height="1237" alt="image" src="https://github.com/user-attachments/assets/c8a2bb63-9dd8-47ea-8969-b1c359129403" />
+<img width="610" height="243" alt="image" src="https://github.com/user-attachments/assets/82aed5e5-1ffc-497c-bd41-87fd15e9fef5" />
 
 
 
