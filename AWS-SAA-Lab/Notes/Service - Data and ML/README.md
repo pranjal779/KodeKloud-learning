@@ -1,26 +1,26 @@
 # Services - Data and ML - 24 Lessons
-Kinesis 06:32
-Demo: Kinesis in real-time consumption and production 04:55
-Managed Service for Kafka 05:18
-Glue 05:31
-EMR 06:51
-Glue Databrew 05:05
-Lake Formation 05:48
-Athena 04:50
-Demo: Athena in Action 07:26
-Quicksight 04:42
-Sagemaker 07:28
-Rekognition 04:56
-Demo: Rekognition recognizing an image 03:34
-Polly 04:20
-Lex 03:36
-Comprehend 03:27
-Forecast 04:23
-Augmented AI 04:47
-Fraud Detector 06:18
-Transcribe 03:17
-Translate 07:26
-Demo: AWS Translate 05:52
-Textract 04:03
-Challenge Yourself Quiz: Meet your Services - Data and ML
 
+* [Kinesis](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/c1383b6c-afff-4871-8ce0-54530272e8e5) [06:32](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/c1383b6c-afff-4871-8ce0-54530272e8e5)
+* [Demo: Kinesis in real-time consumption and production](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/8d780b58-284f-4028-9c88-b16b58f5d376) [04:55](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/8d780b58-284f-4028-9c88-b16b58f5d376)
+* [Managed Service for Kafka](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/76e08f9f-7095-4d90-bd51-35c6bf3552a8) [05:18](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/76e08f9f-7095-4d90-bd51-35c6bf3552a8)
+* [Glue](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/30eb8cf0-19f5-48aa-8a40-5bb2b21feecd) [05:31](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/30eb8cf0-19f5-48aa-8a40-5bb2b21feecd)
+* [EMR](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/785adc03-6238-46ec-9a5e-4e30a26a67ca) [06:51](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/785adc03-6238-46ec-9a5e-4e30a26a67ca)
+* [Glue Databrew](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/9c773745-6141-49e6-ad9a-b3226fd73803) [05:05](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/9c773745-6141-49e6-ad9a-b3226fd73803)
+* [Lake Formation](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/74a9db79-8081-46c1-88fa-0aaf4cd52c6d) [05:48](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/74a9db79-8081-46c1-88fa-0aaf4cd52c6d)
+* [Athena](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/6cbd3002-8404-4769-9612-27a580bb92c7) [04:50](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/6cbd3002-8404-4769-9612-27a580bb92c7)
+* [Demo: Athena in Action](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/e65d42c2-31ef-4abd-b8c9-e6dde6107bf7) [07:26](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/e65d42c2-31ef-4abd-b8c9-e6dde6107bf7)
+* [Quicksight](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/30df03d0-51a2-480e-93d6-6a423a14a335) [04:42](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/30df03d0-51a2-480e-93d6-6a423a14a335)
+* [Sagemaker](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/2fd165ff-ca8c-4f90-a28e-f24966eb3745) [07:28](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/2fd165ff-ca8c-4f90-a28e-f24966eb3745)
+* [Rekognition](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/3eff21d1-422e-47d6-a6b7-12775dd20127) [04:56](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/3eff21d1-422e-47d6-a6b7-12775dd20127)
+* [Demo: Rekognition recognizing an image](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/d0bbebdc-6d8d-49ba-8a64-9f8b9b99ea4e) [03:34](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/d0bbebdc-6d8d-49ba-8a64-9f8b9b99ea4e)
+* [Polly](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/1e093344-7338-4ae6-8531-7c7eadfc6141) [04:20](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/1e093344-7338-4ae6-8531-7c7eadfc6141)
+* [Lex](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/9766e99c-5493-470b-8545-cc0a53a58c97) [03:36](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/9766e99c-5493-470b-8545-cc0a53a58c97)
+* [Comprehend](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/e898c2a7-633e-4c65-84af-3555d8e2995c) [03:27](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/e898c2a7-633e-4c65-84af-3555d8e2995c)
+* [Forecast](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/8e8ddb10-d49c-4e29-878b-7947ccb48f38) [04:23](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/8e8ddb10-d49c-4e29-878b-7947ccb48f38)
+* [Augmented AI](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/17a91335-b95b-4f8a-940d-e56b4a6da4ad) [04:47](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/17a91335-b95b-4f8a-940d-e56b4a6da4ad)
+* [Fraud Detector](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/84cb0d61-9663-400b-9040-023cfb4b06a4) [06:18](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/84cb0d61-9663-400b-9040-023cfb4b06a4)
+* [Transcribe](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/885e519f-5df7-4880-9833-e86a8bac7bec) [03:17](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/885e519f-5df7-4880-9833-e86a8bac7bec)
+* [Translate](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/89a90b79-928f-4236-8a9a-9e47bafbf8f8) [07:26](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/89a90b79-928f-4236-8a9a-9e47bafbf8f8)
+* [Demo: AWS Translate](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/bb12019c-0007-4022-a703-8853db2f14f5) [05:52](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/bb12019c-0007-4022-a703-8853db2f14f5)
+* [Textract](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/728b244e-4db4-43d9-a98a-0bd790e0a8f3) [04:03](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/728b244e-4db4-43d9-a98a-0bd790e0a8f3)
+* [Challenge Yourself Quiz: Meet your Services - Data and ML](https://app.kodekloud.com/course/aws-solutions-architect-associate-certification/module/6d26fc1b-226e-4b42-be1f-f8168af74bb3/lesson/fd3ae276-cfa1-495d-881e-564bd5d69426)
