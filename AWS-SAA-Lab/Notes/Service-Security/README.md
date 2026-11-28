@@ -1,0 +1,33 @@
+# Services - Security - 31 Lessons
+
+* IAM [06:27]
+* Demo: IAM [28:56]
+* Demo: IAM Roles for EC2 Instances [08:26]
+* Lab: Creating your first user, group, and role
+* IAM identity Center (SSO) [05:27]
+* Demo: IAM Identity Center (SSO) [10:44]
+* Cognito [05:52]
+* Directory Service [03:39]
+* Verified Permissions [03:06]
+* CloudTrail [02:15]
+* Demo: Setting up CloudTrail for the first time [07:00]
+* Config [04:58]
+* Artifact [01:49]
+* GuardDuty [03:52]
+* Inspector [04:51]
+* Macie [03:07]
+* Demo: Showing Macie in Action [06:04]
+* Security Hub [04:45]
+* KMS [12:18]
+* CloudHSM [03:59]
+* Certificate Manager [06:29]
+* Private Certificate Authority [04:26]
+* Secrets Manager [03:37]
+* Lab: Setting up RDS with Secrets manager
+* NACLs and SecGroups [07:56]
+* Security Lake [03:35]
+* WAF [04:24]
+* Shield and Shield Advanced [02:31]
+* Network Firewall [04:42]
+* Firewall Manager [02:45]
+* Challenge Yourself Quiz: Meet your Services - Security
